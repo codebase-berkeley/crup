@@ -1,6 +1,6 @@
 title: CRUP
-description: A starter template using the Just the Docs theme
-remote_theme: just-the-docs/just-the-docs
+description: Codebase's Ramp Up Program
+theme: just-the-docs
 
 # Where the site will live
 url: "https://codebase-berkeley.github.io"
@@ -10,9 +10,5 @@ baseurl: "/crup"   # VERY IMPORTANT for project repos
 aux_links:
   "View on GitHub": "https://github.com/codebase-berkeley/crup"
 
-# Plugins
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-
+nav_enabled: true
 color_scheme: wider
