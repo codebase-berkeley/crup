@@ -3,9 +3,9 @@ description: A starter template using the Just the Docs theme
 theme: just-the-docs
 
 # Where the site will live
-url: "https://anikasikka.github.io"
+url: "https://codebase-berkeley.github.io"
 baseurl: "/crup"   # VERY IMPORTANT for project repos
 
 # Add a GitHub link in the header
 aux_links:
-  "View on GitHub": "https://github.com/anikasikka/crup"
+  "View on GitHub": "https://github.com/codebase-berkeley/crup"
