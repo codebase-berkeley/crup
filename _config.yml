@@ -1,6 +1,6 @@
 title: CRUP
 description: A starter template using the Just the Docs theme
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Where the site will live
 url: "https://codebase-berkeley.github.io"
@@ -12,4 +12,5 @@ aux_links:
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
