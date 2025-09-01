@@ -54,26 +54,6 @@ description: Meet the CRUP team and instructors.
   text-decoration: underline;
 }
 
-.staffer-badge {
-  display: inline-block;
-  background-color: #f6f8fa;
-  color: #0366d6 !important;
-  padding: 0.16em 0.56em;
-  border-radius: 6px;
-  font-size: 0.8em;
-  font-weight: 500;
-  margin-left: 0.5rem;
-  text-transform: uppercase;
-  border: 1px solid #e1e4e8;
-}
-
-/* Specific styling for pronouns badges (not role badges) */
-.staffer-name .staffer-badge {
-  background-color: #f6f8fa !important;
-  color: #0366d6 !important;
-  border: 1px solid #e1e4e8 !important;
-}
-
 .staffer-role {
   font-weight: 500;
   color: #0366d6;
@@ -81,57 +61,9 @@ description: Meet the CRUP team and instructors.
   font-size: 1rem;
 }
 
-.staffer-meta {
-  font-size: 0.9rem;
-  color: #586069;
-  margin: 0.25rem 0;
-}
-
 .staffer p {
   margin: 0.25rem 0;
   line-height: 1.5;
-}
-
-.staffer p a {
-  color: #0366d6;
-  text-decoration: none;
-}
-
-.staffer p a:hover {
-  text-decoration: underline;
-}
-
-/* Role-specific styling */
-.label-EdVP {
-  background-color: #624099 !important;
-  color: white !important;
-  border: none !important;
-  font-size: 0.9em !important;
-  padding: 0.25em 0.75em !important;
-}
-
-.label-Instructor {
-  background-color: #5e1c82 !important;
-  color: white !important;
-  border: none !important;
-  font-size: 0.9em !important;
-  padding: 0.25em 0.75em !important;
-}
-
-.label-TA {
-  background-color: #935CBC !important;
-  color: white !important;
-  border: none !important;
-  font-size: 0.9em !important;
-  padding: 0.25em 0.75em !important;
-}
-
-.label-Mentor {
-  background-color: #006C67 !important;
-  color: white !important;
-  border: none !important;
-  font-size: 0.9em !important;
-  padding: 0.25em 0.75em !important;
 }
 
 /* Responsive design */
