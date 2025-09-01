@@ -8,7 +8,7 @@ layout: home
 
 This page contains additional resources for each lecture to help you dive deeper into the topics covered.
 
-## Week 1: Welcome! & Intro to Programming in Python
+## Week 1: Welcome! and Introduction to Programming in Python
 *Coming soon...*
 
 ## Week 2: Data Structures

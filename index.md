@@ -6,7 +6,7 @@ layout: home
 
 # CRUP Fall 2025
 
-Welcome to **Codebase's Ramp Up Program (CRUP)**. We will dive into **Software Engineering, Machine Learning, and AI** through hands-on work in **Python, Java, JavaScript, HTML/CSS, SQL**, and frameworks like **React, Node.js, PyTorch, scikit-learn, and more!**.
+Welcome to **Codebase's Ramp Up Program (CRUP)**! We will dive into **Software Engineering, Machine Learning, and AI** through hands-on work in **Python, Java, JavaScript, HTML/CSS, SQL**, and frameworks like **React, Node.js, PyTorch, scikit-learn, and more!**.
 
 CRUP is brought to you by...
 
