@@ -1,5 +1,5 @@
 ---
 name: Anika Sikka
 role: VP of Education
-photo: anika_sikka.png
+photo: anika_sikka.JPEG
 ---
