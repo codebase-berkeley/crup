@@ -90,7 +90,15 @@ layout: home
 Running CRUP would not be possible without these amazing people!
 
 <div class="role">
-{% for person in site.people %}
+{% assign edvps = site.people | where: 'role', 'VP of Education' %}
+{% for person in edvps %}
+{{ person }}
+{% endfor %}
+</div>
+
+<div class="role">
+{% assign others = site.people | where_exp: 'person', 'person.role != "VP of Education"' %}
+{% for person in others %}
 {{ person }}
 {% endfor %}
 </div>
