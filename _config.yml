@@ -15,5 +15,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
 
-nav_enabled: true
 color_scheme: wider
