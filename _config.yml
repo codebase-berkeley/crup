@@ -9,3 +9,7 @@ baseurl: "/crup"   # VERY IMPORTANT for project repos
 # Add a GitHub link in the header
 aux_links:
   "View on GitHub": "https://github.com/codebase-berkeley/crup"
+
+# Plugins
+plugins:
+  - jekyll-feed
