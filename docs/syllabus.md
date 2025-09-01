@@ -12,7 +12,6 @@ layout: home
 
 ### Contact Information
 - **EdVPs**: [education@codebase.studentorg.berkeley.edu](mailto:education@codebase.studentorg.berkeley.edu)
-
 - **Mentored PMs**: [mentored@codebase.studentorg.berkeley.edu](mailto:mentored@codebase.studentorg.berkeley.edu)  
 
 ### Prerequisites
