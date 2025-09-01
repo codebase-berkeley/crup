@@ -9,7 +9,9 @@ layout: home
 Welcome everyone!  
 In the **Codebase Ramp Up Program (CRUP)**, we'll dive into **Software Engineering, Machine Learning, and AI** through hands-on projects using **Python, JavaScript, HTML/CSS, SQL**, and frameworks like **React, Node.js, PyTorch, and scikit-learn**.
 
-Your instructors this semester are [Anika Sikka](mailto:anikasikka@berkeley.edu) and [Patrick Mendoza](mailto:patmendoza6745@berkeley.edu).
+Brought to you by...
+
+- your EdVPs <3
 
 ---
 
