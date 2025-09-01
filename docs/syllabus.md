@@ -27,7 +27,7 @@ By the end of the 12 weeks, we hope you:
 - Are familiar with frameworks such as **React, Node.js, NPM, PyTorch, Pandas, NumPy, scikit-learn**  
 - Have a basic understanding of **Databases**  
 - Understand fundamental ML/AI concepts (optimization, neural networks)  
-- Feel comfortable working in a **team environment**, similar to industry  
+- Feel comfortable working in a **team environment**, similar to that found in industry  
 
 ### Course Content
 The course will roughly follow this outline (subject to change based on member needs, popularity, and resources):  
