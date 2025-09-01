@@ -6,10 +6,19 @@ description: Meet the CRUP team and instructors.
 ---
 
 <style>
+/* Staff layout inspired by Data 100 fa25 */
+.role {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
 .staffer {
   display: flex;
-  margin-bottom: 2rem;
-  padding: 1.5rem;
+  flex-basis: 90%;
+  padding: 1rem;
+  padding-right: 2rem;
+  margin-bottom: 1rem;
   border: 1px solid #e1e4e8;
   border-radius: 8px;
   background-color: #ffffff;
@@ -17,23 +26,21 @@ description: Meet the CRUP team and instructors.
 }
 
 .staffer:hover {
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .staffer-image {
-  width: 150px;
-  height: 150px;
   border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin-right: 1rem;
   object-fit: cover;
-  margin-right: 1.5rem;
-  border: 3px solid #e1e4e8;
   flex-shrink: 0;
 }
 
 .staffer-name {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-  font-size: 1.5rem;
+  margin: 0.25rem 0;
+  font-size: 1.2rem;
   font-weight: 600;
   color: #24292e;
 }
@@ -49,30 +56,33 @@ description: Meet the CRUP team and instructors.
 
 .staffer-badge {
   display: inline-block;
-  background-color: #0366d6;
-  color: white;
-  padding: 0.25rem 0.5rem;
-  border-radius: 12px;
-  font-size: 0.75rem;
+  background-color: #f6f8fa;
+  color: #586069;
+  padding: 0.16em 0.56em;
+  border-radius: 6px;
+  font-size: 0.8em;
   font-weight: 500;
   margin-left: 0.5rem;
+  text-transform: uppercase;
+  border: 1px solid #e1e4e8;
 }
 
 .staffer-role {
   font-weight: 500;
   color: #0366d6;
-  margin-bottom: 0.5rem;
-  font-size: 1.1rem;
+  margin: 0.25rem 0;
+  font-size: 1rem;
 }
 
 .staffer-meta {
   font-size: 0.9rem;
   color: #586069;
-  margin-bottom: 0.5rem;
+  margin: 0.25rem 0;
 }
 
 .staffer p {
-  margin-bottom: 0.5rem;
+  margin: 0.25rem 0;
+  line-height: 1.5;
 }
 
 .staffer p a {
@@ -84,17 +94,50 @@ description: Meet the CRUP team and instructors.
   text-decoration: underline;
 }
 
+/* Role-specific styling */
+.label-EdVP {
+  background-color: #624099;
+  color: white;
+  border: none;
+}
+
+.label-Instructor {
+  background-color: #5e1c82;
+  color: white;
+  border: none;
+}
+
+.label-TA {
+  background-color: #935CBC;
+  color: white;
+  border: none;
+}
+
+.label-Mentor {
+  background-color: #006C67;
+  color: white;
+  border: none;
+}
+
+/* Responsive design */
 @media (max-width: 768px) {
   .staffer {
     flex-direction: column;
     text-align: center;
+    padding: 1rem;
   }
   
   .staffer-image {
     margin-right: 0;
     margin-bottom: 1rem;
-    width: 120px;
-    height: 120px;
+  }
+  
+  .role {
+    flex-direction: column;
+  }
+  
+  .staffer {
+    flex-basis: 100%;
   }
 }
 </style>
@@ -108,28 +151,36 @@ description: Meet the CRUP team and instructors.
 
 ## Executive Vice Presidents (EdVPs)
 
+<div class="role">
 {% assign edvps = site.staffers | where: 'role', 'EdVP' %}
 {% for staffer in edvps %}
 {{ staffer }}
 {% endfor %}
+</div>
 
 ## Instructors
 
+<div class="role">
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+</div>
 
 ## Teaching Assistants
 
+<div class="role">
 {% assign tas = site.staffers | where: 'role', 'TA' %}
 {% for staffer in tas %}
 {{ staffer }}
 {% endfor %}
+</div>
 
 ## Mentors
 
+<div class="role">
 {% assign mentors = site.staffers | where: 'role', 'Mentor' %}
 {% for staffer in mentors %}
 {{ staffer }}
 {% endfor %}
+</div>

@@ -1,37 +1,44 @@
-// Custom styles for CRUP staff system
+// Custom styles for CRUP staff system inspired by Data 100 fa25
+
+/* Staff layout inspired by Data 100 fa25 */
+.role {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
 
 .staffer {
   display: flex;
-  margin-bottom: 2rem;
-  padding: 1.5rem;
-  border: 1px solid var(--border);
+  flex-basis: 90%;
+  padding: 1rem;
+  padding-right: 2rem;
+  margin-bottom: 1rem;
+  border: 1px solid #e1e4e8;
   border-radius: 8px;
-  background-color: var(--background);
+  background-color: #ffffff;
   transition: box-shadow 0.2s ease;
 
   &:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
 
   .staffer-image {
-    width: 150px;
-    height: 150px;
     border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-right: 1rem;
     object-fit: cover;
-    margin-right: 1.5rem;
-    border: 3px solid var(--border);
     flex-shrink: 0;
   }
 
   .staffer-name {
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-    font-size: 1.5rem;
+    margin: 0.25rem 0;
+    font-size: 1.2rem;
     font-weight: 600;
-    color: var(--text);
+    color: #24292e;
 
     a {
-      color: var(--link);
+      color: #0366d6;
       text-decoration: none;
 
       &:hover {
@@ -42,33 +49,36 @@
 
   .staffer-badge {
     display: inline-block;
-    background-color: var(--primary);
-    color: white;
-    padding: 0.25rem 0.5rem;
-    border-radius: 12px;
-    font-size: 0.75rem;
+    background-color: #f6f8fa;
+    color: #586069;
+    padding: 0.16em 0.56em;
+    border-radius: 6px;
+    font-size: 0.8em;
     font-weight: 500;
     margin-left: 0.5rem;
+    text-transform: uppercase;
+    border: 1px solid #e1e4e8;
   }
 
   .staffer-role {
     font-weight: 500;
-    color: var(--primary);
-    margin-bottom: 0.5rem;
-    font-size: 1.1rem;
+    color: #0366d6;
+    margin: 0.25rem 0;
+    font-size: 1rem;
   }
 
   .staffer-meta {
     font-size: 0.9rem;
-    color: var(--text-muted);
-    margin-bottom: 0.5rem;
+    color: #586069;
+    margin: 0.25rem 0;
   }
 
   p {
-    margin-bottom: 0.5rem;
+    margin: 0.25rem 0;
+    line-height: 1.5;
 
     a {
-      color: var(--link);
+      color: #0366d6;
       text-decoration: none;
 
       &:hover {
@@ -81,32 +91,47 @@
   @media (max-width: 768px) {
     flex-direction: column;
     text-align: center;
+    padding: 1rem;
 
     .staffer-image {
       margin-right: 0;
       margin-bottom: 1rem;
-      width: 120px;
-      height: 120px;
     }
   }
 }
 
-// Staff grid layout for better organization
-.staff-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
-  margin-top: 2rem;
+/* Role-specific styling */
+.label-EdVP {
+  background-color: #624099;
+  color: white;
+  border: none;
 }
 
-// Section headers
-.staff-section {
-  margin-top: 3rem;
-  margin-bottom: 2rem;
+.label-Instructor {
+  background-color: #5e1c82;
+  color: white;
+  border: none;
+}
 
-  h2 {
-    border-bottom: 2px solid var(--primary);
-    padding-bottom: 0.5rem;
-    margin-bottom: 1.5rem;
+.label-TA {
+  background-color: #935CBC;
+  color: white;
+  border: none;
+}
+
+.label-Mentor {
+  background-color: #006C67;
+  color: white;
+  border: none;
+}
+
+/* Responsive design for role containers */
+@media (max-width: 768px) {
+  .role {
+    flex-direction: column;
+  }
+  
+  .staffer {
+    flex-basis: 100%;
   }
 }
