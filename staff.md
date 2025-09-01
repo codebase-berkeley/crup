@@ -57,7 +57,7 @@ description: Meet the CRUP team and instructors.
 .staffer-badge {
   display: inline-block;
   background-color: #f6f8fa;
-  color: #586069;
+  color: #0366d6;
   padding: 0.16em 0.56em;
   border-radius: 6px;
   font-size: 0.8em;
