@@ -109,27 +109,35 @@
 
 /* Role-specific styling */
 .label-EdVP {
-  background-color: #624099;
-  color: white;
-  border: none;
+  background-color: #624099 !important;
+  color: white !important;
+  border: none !important;
+  font-size: 0.9em !important;
+  padding: 0.25em 0.75em !important;
 }
 
 .label-Instructor {
-  background-color: #5e1c82;
-  color: white;
-  border: none;
+  background-color: #5e1c82 !important;
+  color: white !important;
+  border: none !important;
+  font-size: 0.9em !important;
+  padding: 0.25em 0.75em !important;
 }
 
 .label-TA {
-  background-color: #935CBC;
-  color: white;
-  border: none;
+  background-color: #935CBC !important;
+  color: white !important;
+  border: none !important;
+  font-size: 0.9em !important;
+  padding: 0.25em 0.75em !important;
 }
 
 .label-Mentor {
-  background-color: #006C67;
-  color: white;
-  border: none;
+  background-color: #006C67 !important;
+  color: white !important;
+  border: none !important;
+  font-size: 0.9em !important;
+  padding: 0.25em 0.75em !important;
 }
 
 /* Responsive design for role containers */
