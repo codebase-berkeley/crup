@@ -3,4 +3,4 @@ name: Sarika Pasumarthy
 role: Mentored PM
 photo: sarika_pasumarthy.JPG
 ---
-DRI for Mentored members
+DRI for Mentored Members
