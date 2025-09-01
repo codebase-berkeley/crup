@@ -50,7 +50,7 @@
   .staffer-badge {
     display: inline-block;
     background-color: #f6f8fa;
-    color: #0366d6;
+    color: #0366d6 !important;
     padding: 0.16em 0.56em;
     border-radius: 6px;
     font-size: 0.8em;
@@ -58,6 +58,13 @@
     margin-left: 0.5rem;
     text-transform: uppercase;
     border: 1px solid #e1e4e8;
+  }
+
+  /* Specific styling for pronouns badges (not role badges) */
+  .staffer-name .staffer-badge {
+    background-color: #f6f8fa !important;
+    color: #0366d6 !important;
+    border: 1px solid #e1e4e8 !important;
   }
 
   .staffer-role {
