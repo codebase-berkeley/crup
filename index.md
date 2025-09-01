@@ -87,7 +87,18 @@ Brought to you by...
         </td>
       <td></td>
       <td>
-        <a href="https://www.khanacademy.org/math/calculus-1">Khan Academy Calculus</a>
+        <span class="label"><strong>Vector Calculus</strong></span>
+        <a href="https://drive.google.com/file/d/1X-f6JTgsp8WHvOc4k2NcJgKm74hH2ZFD/view">EECS 127 sp24 Reader</a>
+        <span class="label"><strong>Vector Calculus I Recording</strong></span>
+        <a href="https://www.youtube.com/watch?v=QvnXLI4HwLM&list=PLnocShPlK-FsQ-Sflqs4tbX-dKhYZSD3g&index=8">EECS 127 sp24 - watch until end </a>
+        <span class="label"><strong>Vector Calculus II Recording</strong></span>
+        <a href="https://www.youtube.com/watch?v=0CJbfW4_Y3g&list=PLnocShPlK-FsQ-Sflqs4tbX-dKhYZSD3g&index=9">EECS 127 sp24 - watch until 34:45</a>
+        <span class="label"><strong>Directional Derivatives and the Gradient Vector</strong></span>
+        <a href="https://drive.google.com/file/d/1IUx13k688MkK0y7IPXn6jkONex-5vDtl/view">MATH 53 fa22 notes</a>
+        <span class="label"><strong>Partial Derivatives, Tangent Planes, and Linear Approximations</strong></span>
+        <a href="https://drive.google.com/file/d/1MFwlXkN9N0RGNCZTtC9_wfPL42TnhieN/view">MATH 53 fa22 notes</a>
+        <span class="label"><strong>The Chain Rule</strong></span>
+        <a href="https://drive.google.com/file/d/1kP-jRggb76k36Yibyawh9WBWVRyBSRhl/view">MATH 53 fa22 notes</a>
       </td>
     </tr>
     <tr>
@@ -111,7 +122,7 @@ Brought to you by...
       <td>Nov 15</td>
       <td>Deep Learning I</td>
       <td></td>
-      <td></td>
+      <td>Patrick</td>
       <td></td>
     </tr>
     <tr>
@@ -119,7 +130,7 @@ Brought to you by...
       <td>Nov 22</td>
       <td>Deep Learning II</td>
       <td></td>
-      <td></td>
+      <td>Patrick</td>
       <td></td>
     </tr>
     <tr>
