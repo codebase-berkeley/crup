@@ -1,6 +1,6 @@
 ---
 name: Ally Dana
 role: VP of External 
-photo: adelina_chau.PNG
+photo: ally_dana.PNG
 ---
 DRI TBD
