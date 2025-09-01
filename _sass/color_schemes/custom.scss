@@ -6,8 +6,9 @@
 
 // Make tables more responsive and wider
 table {
-  width: 100%;
-  max-width: 100%;
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: fixed; // This helps distribute column widths evenly
   overflow-x: auto;
   display: block;
   
@@ -16,21 +17,42 @@ table {
   }
 }
 
-// Ensure table cells don't wrap unnecessarily
+// Ensure table cells don't wrap unnecessarily and use full width
 td, th {
   white-space: nowrap;
   padding: 8px 12px;
+  word-wrap: break-word;
   
   // Allow wrapping for longer content in specific columns
   &:nth-child(3) { // Lecture column
     white-space: normal;
     min-width: 200px;
+    width: 40%; // Give this column more space
   }
   
   &:nth-child(4) { // Assignments column
     white-space: normal;
     min-width: 150px;
+    width: 20%; // Give this column some space
   }
+  
+  &:nth-child(1) { // Week column
+    width: 10%;
+  }
+  
+  &:nth-child(2) { // Date column
+    width: 15%;
+  }
+  
+  &:nth-child(5) { // Lecturer column
+    width: 15%;
+  }
+}
+
+// Force the table to use the full width of its container
+.main-content table {
+  margin: 0;
+  width: 100% !important;
 }
 
 // Add horizontal scroll for very small screens
