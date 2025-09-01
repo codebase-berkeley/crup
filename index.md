@@ -23,7 +23,7 @@ your EdVPs <3
       <th>Date</th>
       <th>Lecture</th>
       <th>Assignments</th>
-      <th>Lecturer(s)</th>
+      <th>DRI(s)</th>
     </tr>
   </thead>
   <tbody>
