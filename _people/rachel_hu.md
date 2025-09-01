@@ -1,6 +1,6 @@
 ---
 name: Rachel Hu
 role: VP of Internal
-photo: rachel_hu.JPEG
+photo: rachel_hu.PNG
 ---
 DRI TBD
