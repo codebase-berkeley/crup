@@ -32,7 +32,7 @@ description: Meet the CRUP team and instructors.
   height: 120px;
   width: 120px;
   margin-right: 0.75rem;
-  object-fit: contain;
+  object-fit: cover;
   flex-shrink: 0;
 }
 
