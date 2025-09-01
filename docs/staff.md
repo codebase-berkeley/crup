@@ -93,7 +93,7 @@ description: Meet the CRUP team and instructors.
 Running CRUP would not be possible without these amazing people!
 
 <div class="role">
-{% assign edvps = site.staffers | where: 'role', 'VP of Exec' %}
+{% assign edvps = site.staffers | where: 'role', 'VP of Eduation' %}
 {% for staffer in edvps %}
 {{ staffer }}
 {% endfor %}
