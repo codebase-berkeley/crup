@@ -1,9 +1,9 @@
 ---
-layout: home
 title: Faciliators
-nav_order: 3
-description: Meet the CRUP team and instructors.
+nav_order: 4
+layout: home
 ---
+
 
 <style>
 .role {
