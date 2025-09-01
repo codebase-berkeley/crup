@@ -1,3 +1,45 @@
+// Make the main content area wider
+.main-content {
+  max-width: 1200px !important; // Increase from default ~800px
+  margin: 0 auto;
+}
+
+// Make tables more responsive and wider
+table {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  display: block;
+  
+  @media (min-width: 768px) {
+    display: table;
+  }
+}
+
+// Ensure table cells don't wrap unnecessarily
+td, th {
+  white-space: nowrap;
+  padding: 8px 12px;
+  
+  // Allow wrapping for longer content in specific columns
+  &:nth-child(3) { // Lecture column
+    white-space: normal;
+    min-width: 200px;
+  }
+  
+  &:nth-child(4) { // Assignments column
+    white-space: normal;
+    min-width: 150px;
+  }
+}
+
+// Add horizontal scroll for very small screens
+@media (max-width: 767px) {
+  .main-content {
+    overflow-x: auto;
+  }
+}
+
 @media (max-width: $content-width) {
     .content-nav {
       display: none;
