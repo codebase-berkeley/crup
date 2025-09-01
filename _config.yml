@@ -12,3 +12,19 @@ aux_links:
 
 nav_enabled: true
 color_scheme: wider
+
+# Collections for website data
+collections:
+  staffers:
+    sort_by: name
+
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: '_staffers'
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      width: 300
+      subpath: '/assets/headshots/'
