@@ -60,7 +60,7 @@ your EdVPs <3
       <td>Oct 11</td>
       <td>Databases (<a href="https://docs.google.com/presentation/d/1fpfz0_LdoXo_t6qInk4bLrDAQ40b4GrZgkvacAHhKTo/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Anika</td>
+      <td>Jaanavi, Anika</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">6</td>
