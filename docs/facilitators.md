@@ -90,29 +90,7 @@ layout: home
 Running CRUP would not be possible without these amazing people!
 
 <div class="role">
-{% assign edvps = site.people | where: 'role', 'VP of Education' %}
-{% for person in edvps %}
-{{ person }}
-{% endfor %}
-</div>
-
-<div class="role">
-{% assign tas = site.people | where: 'role', 'Mentored PM' %}
-{% for person in tas %}
-{{ person }}
-{% endfor %}
-</div>
-
-<div class="role">
-{% assign instructors = site.people | where: 'role', 'Client PM' %}
-{% for person in instructors %}
-{{ person }}
-{% endfor %}
-</div>
-
-<div class="role">
-{% assign mentors = site.people | where: 'role', 'Member' %}
-{% for person in mentors %}
+{% for person in site.people %}
 {{ person }}
 {% endfor %}
 </div>
