@@ -97,15 +97,15 @@ Running CRUP would not be possible without these amazing people!
 </div>
 
 <div class="role">
-{% assign instructors = site.people | where: 'role', 'Client PM' %}
-{% for person in instructors %}
+{% assign tas = site.people | where: 'role', 'Mentored PM' %}
+{% for person in tas %}
 {{ person }}
 {% endfor %}
 </div>
 
 <div class="role">
-{% assign tas = site.people | where: 'role', 'Mentored PM' %}
-{% for person in tas %}
+{% assign instructors = site.people | where: 'role', 'Client PM' %}
+{% for person in instructors %}
 {{ person }}
 {% endfor %}
 </div>

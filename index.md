@@ -25,6 +25,7 @@ Brought to you by...
       <th>Lecture</th>
       <th>Assignments</th>
       <th>Lecturer(s)</th>
+      <th>Additional Resources</th>
     </tr>
   </thead>
   <tbody>
@@ -34,11 +35,13 @@ Brought to you by...
       <td>Welcome! & Intro to Programming in Python</td>
       <td></td>
       <td>Anika</td>
+      <td></td>
     </tr>
     <tr>
       <td style="max-width: 30px;">2</td>
       <td>Sep 20</td>
       <td>Data Structures</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -48,11 +51,13 @@ Brought to you by...
       <td>Introduction to SWE I</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td style="max-width: 30px;">4</td>
       <td>Oct 4</td>
       <td>Introduction to SWE II</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -62,11 +67,13 @@ Brought to you by...
       <td>Databases</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td style="max-width: 30px;">6</td>
       <td>Oct 18</td>
       <td>Linear Algebra for ML</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -79,11 +86,15 @@ Brought to you by...
         <a href="assets/calculus_for_ml/calculus_for_ml.pdf">Calculus for ML</a>
         </td>
       <td></td>
+      <td>
+        <a href="https://www.khanacademy.org/math/calculus-1">Khan Academy Calculus</a>
+      </td>
     </tr>
     <tr>
       <td style="max-width: 30px;">8</td>
       <td>Nov 1</td>
       <td>Probability for ML</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -93,11 +104,13 @@ Brought to you by...
       <td>Classical ML</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td style="max-width: 30px;">10</td>
       <td>Nov 15</td>
       <td>Deep Learning I</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -107,11 +120,13 @@ Brought to you by...
       <td>Deep Learning II</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td style="max-width: 30px;">12</td>
       <td>Nov 29</td>
       <td>Introduction to MLE</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>

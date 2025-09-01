@@ -6,10 +6,6 @@ theme: just-the-docs
 url: "https://codebase-berkeley.github.io"
 baseurl: "/crup"   # VERY IMPORTANT for project repos
 
-# Add a GitHub link in the header
-aux_links:
-  "View on GitHub": "https://github.com/codebase-berkeley/crup"
-
 nav_enabled: true
 color_scheme: wider
 
