@@ -98,7 +98,7 @@ your EdVPs <3
       <td>Nov 15</td>
       <td>Deep Learning I (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Patrick</td>
+      <td>Yixuan, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">11</td>
