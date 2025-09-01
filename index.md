@@ -77,7 +77,7 @@ your EdVPs <3
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/calculus_for_ml/calculus_for_ml.pdf">Calculus for ML</a>
         </td>
-      <td>Patrick</td>
+      <td>Renata, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">8</td>
