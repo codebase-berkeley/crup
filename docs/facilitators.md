@@ -12,78 +12,75 @@ description: Meet the CRUP team and instructors.
   margin-bottom: 2rem;
 }
 
-.staffer {
+.person {
   display: flex;
-  flex-basis: 90%;
-  padding: 1rem;
-  padding-right: 2rem;
-  margin-bottom: 1rem;
+  flex-basis: 45%;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
   border: 1px solid #e1e4e8;
   border-radius: 8px;
   background-color: #ffffff;
   transition: box-shadow 0.2s ease;
 }
 
-.staffer:hover {
+.person:hover {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
-.staffer-image {
+.person-image {
   border-radius: 50%;
-  height: 100px;
-  width: 100px;
-  margin-right: 1rem;
-  object-fit: cover;
+  height: 60px;
+  width: 60px;
+  margin-right: 0.75rem;
+  object-fit: contain;
   flex-shrink: 0;
 }
 
-.staffer-name {
+.person-name {
   margin: 0.25rem 0;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 600;
   color: #24292e;
 }
 
-.staffer-name a {
+.person-name a {
   color: #0366d6;
   text-decoration: none;
 }
 
-.staffer-name a:hover {
+.person-name a:hover {
   text-decoration: underline;
 }
 
-.staffer-role {
+.person-role {
   font-weight: 500;
   color: #0366d6;
   margin: 0.25rem 0;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
-.staffer p {
+.person p {
   margin: 0.25rem 0;
-  line-height: 1.5;
+  line-height: 1.4;
+  font-size: 0.85rem;
 }
 
 /* Responsive design */
 @media (max-width: 768px) {
-  .staffer {
+  .person {
     flex-direction: column;
     text-align: center;
-    padding: 1rem;
+    padding: 0.75rem;
+    flex-basis: 100%;
   }
   
-  .staffer-image {
+  .person-image {
     margin-right: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
   }
   
   .role {
     flex-direction: column;
-  }
-  
-  .staffer {
-    flex-basis: 100%;
   }
 }
 </style>
@@ -93,29 +90,29 @@ description: Meet the CRUP team and instructors.
 Running CRUP would not be possible without these amazing people!
 
 <div class="role">
-{% assign edvps = site.staffers | where: 'role', 'VP of Eduation' %}
-{% for staffer in edvps %}
-{{ staffer }}
+{% assign edvps = site.people | where: 'role', 'VP of Education' %}
+{% for person in edvps %}
+{{ person }}
 {% endfor %}
 </div>
 
 <div class="role">
-{% assign instructors = site.staffers | where: 'role', 'Client PM' %}
-{% for staffer in instructors %}
-{{ staffer }}
+{% assign instructors = site.people | where: 'role', 'Client PM' %}
+{% for person in instructors %}
+{{ person }}
 {% endfor %}
 </div>
 
 <div class="role">
-{% assign tas = site.staffers | where: 'role', 'Mentored PM' %}
-{% for staffer in tas %}
-{{ staffer }}
+{% assign tas = site.people | where: 'role', 'Mentored PM' %}
+{% for person in tas %}
+{{ person }}
 {% endfor %}
 </div>
 
 <div class="role">
-{% assign mentors = site.staffers | where: 'role', 'Member' %}
-{% for staffer in mentors %}
-{{ staffer }}
+{% assign mentors = site.people | where: 'role', 'Member' %}
+{% for person in mentors %}
+{{ person }}
 {% endfor %}
 </div>

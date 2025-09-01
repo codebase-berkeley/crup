@@ -1,0 +1,22 @@
+<div class="person">
+  {%- if page.photo -%}
+  <img class="person-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt="{{ page.name }} profile photo">
+  {%- else -%}
+  <img class="person-image" src="{{ site.baseurl }}{{ page.subpath }}default_photo.svg" alt="{{ page.name }} profile photo">
+  {%- endif -%}
+  <div>
+    <h3 class="person-name" id="{{ page.name | slugify }}">
+      {%- if page.website -%}
+      <a href="{{ page.website }}">{{ page.name }}</a>
+      {%- else -%}
+      {{ page.name }}
+      {%- endif -%}
+    </h3>
+    
+    {%- if page.role -%}
+      <p class="person-role">{{ page.role }}</p>
+    {%- endif -%}
+    
+    {{ content }}
+  </div>
+</div>
