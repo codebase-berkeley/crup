@@ -29,8 +29,8 @@ description: Meet the CRUP team and instructors.
 
 .person-image {
   border-radius: 50%;
-  height: 60px;
-  width: 60px;
+  height: 120px;
+  width: 120px;
   margin-right: 0.75rem;
   object-fit: contain;
   flex-shrink: 0;
