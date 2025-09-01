@@ -66,7 +66,7 @@ Brought to you by...
     <tr>
       <td style="max-width: 30px;">6</td>
       <td>Oct 18</td>
-      <td>Linear Algebra for ML</td>
+      <td>Linear Algebra for ML (<a href="https://docs.google.com/presentation/d/1Cq0ep3Fjab5BCMbNVoR_R6kPvEbmBbWqgk9pQDfGu5Y/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td></td>
     </tr>
