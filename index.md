@@ -39,35 +39,35 @@ your EdVPs <3
       <td>Sep 20</td>
       <td>Data Structures in Java (<a href="https://docs.google.com/presentation/d/1PyR05S6xXNaIen8vqK8fAbzKMp2VKpKdoUZokiF1u5s/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td></td>
+      <td>Anika</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">3</td>
       <td>Sep 27</td>
       <td>Introduction to SWE I (<a href="https://docs.google.com/presentation/d/1CyK93E87Lm_Cf46va13oNlaNh3esTJkLkM8Ij1Wn7Po/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td></td>
+      <td>Anika</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">4</td>
       <td>Oct 4</td>
       <td>Introduction to SWE II (<a href="https://docs.google.com/presentation/d/17kl5XRbfkUmfXsrIXRDELY_rYeVDvOcEGczVQH-F7ZE/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td></td>
+      <td>Anika</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">5</td>
       <td>Oct 11</td>
       <td>Databases (<a href="https://docs.google.com/presentation/d/1fpfz0_LdoXo_t6qInk4bLrDAQ40b4GrZgkvacAHhKTo/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td></td>
+      <td>Anika</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">6</td>
       <td>Oct 18</td>
       <td>Linear Algebra for ML (<a href="https://docs.google.com/presentation/d/1Cq0ep3Fjab5BCMbNVoR_R6kPvEbmBbWqgk9pQDfGu5Y/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Adelina</td>
+      <td>Adelina, Samion, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">7</td>
@@ -77,21 +77,21 @@ your EdVPs <3
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/calculus_for_ml/calculus_for_ml.pdf">Calculus for ML</a>
         </td>
-      <td></td>
+      <td>Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">8</td>
       <td>Nov 1</td>
       <td>Probability for ML (<a href="https://docs.google.com/presentation/d/14cG_MEFFpDPWPzNl8PXfy1wHp_mtBWXYf1QLxYKoulc/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td></td>
+      <td>Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">9</td>
       <td>Nov 8</td>
       <td>Classical ML (<a href="https://docs.google.com/presentation/d/14BSKFvrhn66VpDIWytnpcN_jCSU9VPUtA96cWWwaVbY/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td></td>
+      <td>Jessica, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">10</td>
@@ -112,7 +112,7 @@ your EdVPs <3
       <td>Nov 29</td>
       <td>Introduction to MLE (<a href="https://docs.google.com/presentation/d/1f14ahL933aL6GrbXsUhYkX34DMbhdJ9zVF-Ryy4GOeg/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td></td>
+      <td>Patrick</td>
     </tr>
   </tbody>
 </table>
