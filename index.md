@@ -1,5 +1,5 @@
 ---
-title: CRUP Fall 2025
+title: CRUP
 nav_order: 1
 layout: home
 ---
