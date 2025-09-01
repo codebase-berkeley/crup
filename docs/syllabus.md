@@ -11,8 +11,9 @@ layout: home
 - **Time & Date**: Saturday or Sunday from 10am–1pm.  
 
 ### Contact Information
-- **EdVPs**: Patrick Mendoza (patmendoza6745@berkeley.edu), Anika Sikka (anikasikka@berkeley.edu)  
-- **Mentored PMs**: Sarika Pasumarthy (sarikapasumarthy@berkeley.edu), Eduardo Lopez (eduardo_lopez@berkeley.edu)  
+- **EdVPs**: [link text](mailto:education@codebase.studentorg.berkeley.edu)
+
+- **Mentored PMs**: [link text](mailto:mentored@codebase.studentorg.berkeley.edu)  
 
 ### Prerequisites
 - Taken or concurrently enrolled in **CS 61A / Data 8** OR have previous coding experience  
