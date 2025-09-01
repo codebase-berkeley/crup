@@ -1,5 +1,5 @@
 ---
-title: Faciliators
+title: Facilitators
 nav_order: 4
 layout: home
 ---
@@ -85,7 +85,7 @@ layout: home
 }
 </style>
 
-# Faciliators
+# Facilitators
 
 Running CRUP would not be possible without these amazing people!
 
