@@ -38,28 +38,28 @@ Brought to you by...
     <tr>
       <td style="max-width: 30px;">2</td>
       <td>Sep 20</td>
-      <td>Data Structures</td>
+      <td>Data Structures in Java (<a href="https://docs.google.com/presentation/d/1PyR05S6xXNaIen8vqK8fAbzKMp2VKpKdoUZokiF1u5s/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td style="max-width: 30px;">3</td>
       <td>Sep 27</td>
-      <td>Introduction to SWE I</td>
+      <td>Introduction to SWE I (<a href="https://docs.google.com/presentation/d/1CyK93E87Lm_Cf46va13oNlaNh3esTJkLkM8Ij1Wn7Po/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td style="max-width: 30px;">4</td>
       <td>Oct 4</td>
-      <td>Introduction to SWE II</td>
+      <td>Introduction to SWE II (<a href="https://docs.google.com/presentation/d/17kl5XRbfkUmfXsrIXRDELY_rYeVDvOcEGczVQH-F7ZE/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td style="max-width: 30px;">5</td>
       <td>Oct 11</td>
-      <td>Databases</td>
+      <td>Databases (<a href="https://docs.google.com/presentation/d/1fpfz0_LdoXo_t6qInk4bLrDAQ40b4GrZgkvacAHhKTo/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td></td>
     </tr>
@@ -83,35 +83,35 @@ Brought to you by...
     <tr>
       <td style="max-width: 30px;">8</td>
       <td>Nov 1</td>
-      <td>Probability for ML</td>
+      <td>Probability for ML (<a href="https://docs.google.com/presentation/d/14cG_MEFFpDPWPzNl8PXfy1wHp_mtBWXYf1QLxYKoulc/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td style="max-width: 30px;">9</td>
       <td>Nov 8</td>
-      <td>Classical ML</td>
+      <td>Classical ML (<a href="https://docs.google.com/presentation/d/14BSKFvrhn66VpDIWytnpcN_jCSU9VPUtA96cWWwaVbY/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td style="max-width: 30px;">10</td>
       <td>Nov 15</td>
-      <td>Deep Learning I</td>
+      <td>Deep Learning I (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td>Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">11</td>
       <td>Nov 22</td>
-      <td>Deep Learning II</td>
+      <td>Deep Learning II (<a href="https://docs.google.com/presentation/d/10gq7R-3A9MomOZEUCou14_igNJYt8ScNKowG9zrJTqA/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td>Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">12</td>
       <td>Nov 29</td>
-      <td>Introduction to MLE</td>
+      <td>Introduction to MLE (<a href="https://docs.google.com/presentation/d/1f14ahL933aL6GrbXsUhYkX34DMbhdJ9zVF-Ryy4GOeg/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td></td>
     </tr>
