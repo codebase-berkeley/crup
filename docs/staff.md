@@ -1,12 +1,11 @@
 ---
 layout: home
-title: Staff
-nav_order: 4
+title: Faciliators
+nav_order: 3
 description: Meet the CRUP team and instructors.
 ---
 
 <style>
-/* Staff layout inspired by Data 100 fa25 */
 .role {
   display: flex;
   flex-wrap: wrap;
@@ -89,44 +88,33 @@ description: Meet the CRUP team and instructors.
 }
 </style>
 
-# Staff
+# Faciliators
 
-## Course Staff Email
-
-{: .important }
-> Contact course staff **via Ed** with any questions or concerns. For general inquiries, you can reach us at [crup@codebase.berkeley.edu](mailto:crup@codebase.berkeley.edu).
-
-## Executive Vice Presidents (EdVPs)
+Running CRUP would not be possible without these amazing people!
 
 <div class="role">
-{% assign edvps = site.staffers | where: 'role', 'EdVP' %}
+{% assign edvps = site.staffers | where: 'role', 'VP of Exec' %}
 {% for staffer in edvps %}
 {{ staffer }}
 {% endfor %}
 </div>
 
-## Instructors
-
 <div class="role">
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.staffers | where: 'role', 'Client PM' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 </div>
 
-## Teaching Assistants
-
 <div class="role">
-{% assign tas = site.staffers | where: 'role', 'TA' %}
+{% assign tas = site.staffers | where: 'role', 'Mentored PM' %}
 {% for staffer in tas %}
 {{ staffer }}
 {% endfor %}
 </div>
 
-## Mentors
-
 <div class="role">
-{% assign mentors = site.staffers | where: 'role', 'Mentor' %}
+{% assign mentors = site.staffers | where: 'role', 'Member' %}
 {% for staffer in mentors %}
 {{ staffer }}
 {% endfor %}
