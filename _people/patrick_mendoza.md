@@ -1,5 +1,5 @@
 ---
 name: Patrick Mendoza
-role: VP Of Education
+role: VP of Education
 photo: patrick_mendoza.jpeg
 ---
