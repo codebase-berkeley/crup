@@ -1,6 +1,6 @@
 ---
 name: Adelina Chau
-role: Member
+role: Social Memeber
 photo: adelina_chau.PNG
 ---
 DRI for Linear Algebra for ML
