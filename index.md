@@ -39,21 +39,21 @@ your EdVPs <3
       <td>Sep 20</td>
       <td>Data Structures in Java (<a href="https://docs.google.com/presentation/d/1PyR05S6xXNaIen8vqK8fAbzKMp2VKpKdoUZokiF1u5s/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Anika</td>
+      <td>Daniel, Anika</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">3</td>
       <td>Sep 27</td>
       <td>Introduction to SWE I (<a href="https://docs.google.com/presentation/d/1CyK93E87Lm_Cf46va13oNlaNh3esTJkLkM8Ij1Wn7Po/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Anika</td>
+      <td>Cindy, Rachel, Anika</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">4</td>
       <td>Oct 4</td>
       <td>Introduction to SWE II (<a href="https://docs.google.com/presentation/d/17kl5XRbfkUmfXsrIXRDELY_rYeVDvOcEGczVQH-F7ZE/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Anika</td>
+      <td>Kenny, Nicole, Anika</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">5</td>
@@ -77,21 +77,21 @@ your EdVPs <3
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/calculus_for_ml/calculus_for_ml.pdf">Calculus for ML</a>
         </td>
-      <td>Renata, Patrick</td>
+      <td>Renata, Michael L, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">8</td>
       <td>Nov 1</td>
       <td>Probability for ML (<a href="https://docs.google.com/presentation/d/14cG_MEFFpDPWPzNl8PXfy1wHp_mtBWXYf1QLxYKoulc/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Patrick</td>
+      <td>Ash, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">9</td>
       <td>Nov 8</td>
       <td>Classical ML (<a href="https://docs.google.com/presentation/d/14BSKFvrhn66VpDIWytnpcN_jCSU9VPUtA96cWWwaVbY/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Jessica, Patrick</td>
+      <td>Jessica, Socrates, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">10</td>
