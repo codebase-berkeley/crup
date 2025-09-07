@@ -105,7 +105,7 @@ your EdVPs <3
       <td>Nov 22</td>
       <td>Deep Learning II (<a href="https://docs.google.com/presentation/d/10gq7R-3A9MomOZEUCou14_igNJYt8ScNKowG9zrJTqA/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Patrick</td>
+      <td>Tanya, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">12</td>
