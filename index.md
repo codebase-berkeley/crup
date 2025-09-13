@@ -31,7 +31,13 @@ your EdVPs <3
       <td style="max-width: 30px;">1</td>
       <td>Sep 13</td>
       <td>Welcome! and Intro to Programming in Python (<a href="https://docs.google.com/presentation/d/1qIpgvEjE79MUhFeDaQFaAQRr6w-uNUwvFq7xgK_CEgM/edit?usp=sharing">slides</a>)</td>
-      <td></td>
+      <td>
+      <span class="label"><strong>Homework</strong></span>
+        <a href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/week-1/intro_to_python.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+        </a>
+        </td>
+      </td>
       <td>Anika</td>
     </tr>
     <tr>
