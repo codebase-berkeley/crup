@@ -35,7 +35,7 @@ your EdVPs <3
       <span class="label"><strong>Homework</strong></span>
         <a target="_blank"
            href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/week-1/intro_to_python.ipynb">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Notebook"/>
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Intro to Python"/>
         </a>
       </td>
       <td>Anika</td>
