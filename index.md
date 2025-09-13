@@ -38,11 +38,6 @@ your EdVPs <3
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab"/> Open in Colab
   </a>
 </div>
-
-
-
-
-
       </td>
       <td>Anika</td>
     </tr>
