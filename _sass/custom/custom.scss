@@ -71,14 +71,20 @@
   }
 }
 
+/* Custom site title with logo styling */
 .site-title {
   display: flex !important;
   align-items: center !important;
   
-  img {
-    height: 32px;
-    width: auto;
-    margin-right: 12px;
+  &::after {
+    content: '';
+    background-image: url('/crup/assets/images/cb-logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 28px;
+    width: 28px;
+    margin-left: 12px;
     border-radius: 4px;
   }
 }
