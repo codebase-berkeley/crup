@@ -33,8 +33,9 @@ your EdVPs <3
       <td>Welcome! and Intro to Programming in Python (<a href="https://docs.google.com/presentation/d/1qIpgvEjE79MUhFeDaQFaAQRr6w-uNUwvFq7xgK_CEgM/edit?usp=sharing">slides</a>)</td>
       <td>
       <span class="label"><strong>Homework</strong></span>
-        <a href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/week-1/intro_to_python.ipynb">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+        <a target="_blank"
+           href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/week-1/intro_to_python.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Notebook"/>
         </a>
       </td>
       <td>Anika</td>
