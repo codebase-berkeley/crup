@@ -9,9 +9,9 @@ layout: home
 This page contains additional resources for each lecture to help you dive deeper into the topics covered.
 
 ## <span style="color: #397DFF">Week 1: Welcome! and Introduction to Programming in Python</span>
-- [Composing Programs Online Textbook] (https://www.composingprograms.com/)
-- [CS 61A Lecture Videos] (https://www.youtube.com/@JohnDeNero/playlists)
-- [Python Tutor] (https://pythontutor.com/)
+- [Composing Programs Online Textbook](https://www.composingprograms.com/)
+- [CS 61A Lecture Videos](https://www.youtube.com/@JohnDeNero/playlists)
+- [Python Tutor](https://pythontutor.com/)
 
 ## <span style="color: #397DFF">Week 2: Data Structures</span>
 *Coming soon...*

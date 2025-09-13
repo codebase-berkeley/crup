@@ -40,11 +40,11 @@ layout: home
   margin: 0.25rem 0;
   font-size: 1rem;
   font-weight: 600;
-  color: #24292e;
+  color: #397DFF;
 }
 
 .person-name a {
-  color: #0366d6;
+  color: #397DFF;
   text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ layout: home
 
 .person-role {
   font-weight: 500;
-  color: #0366d6;
+  color: #397DFF;
   margin: 0.25rem 0;
   font-size: 0.9rem;
 }
@@ -85,7 +85,7 @@ layout: home
 }
 </style>
 
-# Facilitators
+# <span style="color: #397DFF; font-weight: 350">Facilitators</span>
 
 Running CRUP would not be possible without these amazing people!
 
