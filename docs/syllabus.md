@@ -14,6 +14,9 @@ layout: home
 - **EdVPs**: [education@codebase.studentorg.berkeley.edu](mailto:education@codebase.studentorg.berkeley.edu)
 - **Mentored PMs**: [mentored@codebase.studentorg.berkeley.edu](mailto:mentored@codebase.studentorg.berkeley.edu)  
 
+## Course Description
+This 12-week course offers a foundational introduction to SWE and ML/AI, designed in response to the emerging industry shift toward AI-integrated systems. New members will gain hands-on experience with Python programming, explore modern frameworks, and develop machine learning models including neural networks.
+
 ## Prerequisites
 - Taken or concurrently enrolled in **CS 61A / Data 8** OR have previous coding experience  
 - No prior industry experience  
@@ -22,9 +25,9 @@ layout: home
 
 ## Desired Course Outcomes
 By the end of the 12 weeks, we hope you:  
-- Are comfortable programming in **Python, JavaScript, HTML, CSS, and SQL**  
+- Are comfortable programming in **Python** and **Java**.  
 - Know common data structures (Arrays, LinkedLists, Trees, HashTables)  
-- Are familiar with frameworks such as **React, Node.js, NPM, PyTorch, Pandas, NumPy, scikit-learn**  
+- Are familiar with frameworks such as **PyTorch, Pandas, NumPy, scikit-learn**  
 - Have a basic understanding of **Databases**  
 - Understand fundamental ML/AI concepts (optimization, neural networks)  
 - Feel comfortable working in a **team environment**, similar to that found in industry  
