@@ -6,8 +6,7 @@ layout: home
 
 # CRUP Fall 2025
 
-Welcome to **Codebase's Ramp Up Program (CRUP)**!  
-We will dive into **Software Engineering, Machine Learning, and AI** through hands-on work in **Python, Java,** and **SQL**, and frameworks like **PyTorch, scikit-learn, and more!**.
+Welcome to **Codebase's Ramp Up Program (CRUP)**! We will dive into **Software Engineering, Machine Learning, and AI** through hands-on work in **Python, Java,** and **SQL**, and frameworks like **PyTorch, scikit-learn, and more!**.
 
 CRUP is brought to you by...
 
@@ -17,7 +16,6 @@ your EdVPs <3
 
 ## Schedule
 
-<div class="crup-schedule">
 <table>
   <thead>
     <tr>
@@ -34,7 +32,7 @@ your EdVPs <3
       <td>Sep 13</td>
       <td>Welcome! and Intro to Programming in Python (<a href="https://docs.google.com/presentation/d/1qIpgvEjE79MUhFeDaQFaAQRr6w-uNUwvFq7xgK_CEgM/edit?usp=sharing">slides</a>)</td>
       <td>
-        <span class="label"><strong>Homework</strong></span>
+      <span class="label"><strong>Homework</strong></span>
         <a target="_blank"
            href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/week-1/intro_to_python.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
@@ -84,7 +82,7 @@ your EdVPs <3
       <td>
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/calculus_for_ml/calculus_for_ml.pdf">Calculus for ML</a>
-      </td>
+        </td>
       <td>Renata, Ash, Patrick</td>
     </tr>
     <tr>
@@ -124,4 +122,5 @@ your EdVPs <3
     </tr>
   </tbody>
 </table>
-</div>
+
+---
