@@ -6,7 +6,7 @@ layout: home
 
 # CRUP Fall 2025
 
-Welcome to **Codebase's Ramp Up Program (CRUP)**! We will dive into **Software Engineering, Machine Learning, and AI** through hands-on work in **Python, Java, JavaScript, HTML/CSS, SQL**, and frameworks like **React, Node.js, PyTorch, scikit-learn, and more!**.
+Welcome to **Codebase's Ramp Up Program (CRUP)**! We will dive into **Software Engineering, Machine Learning, and AI** through hands-on work in **Python, Java,** and **SQL**, and frameworks like **PyTorch, scikit-learn, and more!**.
 
 CRUP is brought to you by...
 
@@ -22,7 +22,7 @@ your EdVPs <3
       <th style="max-width: 30px;">Week</th>
       <th>Date</th>
       <th>Lecture</th>
-      <th>Assignments</th>
+      <th>Assignment(s)</th>
       <th>DRI(s)</th>
     </tr>
   </thead>
@@ -31,7 +31,13 @@ your EdVPs <3
       <td style="max-width: 30px;">1</td>
       <td>Sep 13</td>
       <td>Welcome! and Intro to Programming in Python (<a href="https://docs.google.com/presentation/d/1qIpgvEjE79MUhFeDaQFaAQRr6w-uNUwvFq7xgK_CEgM/edit?usp=sharing">slides</a>)</td>
-      <td></td>
+      <td>
+      <span class="label"><strong>Homework</strong></span>
+        <a target="_blank"
+           href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/week-1/intro_to_python.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+        </a>
+      </td>
       <td>Anika</td>
     </tr>
     <tr>
@@ -77,14 +83,14 @@ your EdVPs <3
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/calculus_for_ml/calculus_for_ml.pdf">Calculus for ML</a>
         </td>
-      <td>Renata, Michael L, Patrick</td>
+      <td>Renata, Ash, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">8</td>
       <td>Nov 1</td>
       <td>Probability for ML (<a href="https://docs.google.com/presentation/d/14cG_MEFFpDPWPzNl8PXfy1wHp_mtBWXYf1QLxYKoulc/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Ash, Patrick</td>
+      <td>Sasha, Michael L, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">9</td>
