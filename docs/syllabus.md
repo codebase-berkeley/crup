@@ -4,26 +4,26 @@ nav_order: 2
 layout: home
 ---
 
-# Syllabus
+# <span style="color: #397DFF; font-weight: 350">Syllabus</span>
 
-## Course Format
+## <span style="color: #397DFF">Course Format</span>
 - **Length**: 3 hours, once a week, in person (or hybrid, depending on availability).  
 - **Time & Date**: Saturday or Sunday from 10am–1pm.  
 
-## Contact Information
+## <span style="color: #397DFF">Contact Information</span>
 - **EdVPs**: [education@codebase.studentorg.berkeley.edu](mailto:education@codebase.studentorg.berkeley.edu)
 - **Mentored PMs**: [mentored@codebase.studentorg.berkeley.edu](mailto:mentored@codebase.studentorg.berkeley.edu)  
 
-## Course Description
+## <span style="color: #397DFF">Course Description</span>
 This 12-week course offers a foundational introduction to SWE and ML/AI, designed in response to the emerging industry shift toward AI-integrated systems. New members will gain hands-on experience with Python programming, explore modern frameworks, and develop machine learning models including neural networks.
 
-## Prerequisites
+## <span style="color: #397DFF">Prerequisites</span>
 - Taken or concurrently enrolled in **CS 61A / Data 8** OR have previous coding experience  
 - No prior industry experience  
 - Little to no prior web dev experience  
 - Completed **1 or fewer upper-division CS/Data Science technical courses** at UC Berkeley  
 
-## Desired Course Outcomes
+## <span style="color: #397DFF">Desired Course Outcomes</span>
 By the end of the 12 weeks, we hope you:  
 - Are comfortable programming in **Python** and **Java**.  
 - Know common data structures (Arrays, LinkedLists, Trees, HashTables)  
@@ -32,7 +32,7 @@ By the end of the 12 weeks, we hope you:
 - Understand fundamental ML/AI concepts (optimization, neural networks)  
 - Feel comfortable working in a **team environment**, similar to that found in industry  
 
-## Course Content
+## <span style="color: #397DFF">Course Content</span>
 The course will roughly follow this outline (subject to change based on member needs, popularity, and resources):  
 1. Programming in Python  
 2. Data Structures  
@@ -43,26 +43,26 @@ The course will roughly follow this outline (subject to change based on member n
 7. Deep Learning  
 8. Introduction to MLE  
 
-## Course Outline
+## <span style="color: #397DFF">Course Outline</span>
 - **Weeks 1–4**: Welcome! and Introduction to Programming in Python, Data Structures, and Introduction to SWE  
 - **Weeks 5–8**: Databases and Math for ML  
 - **Weeks 9–12**: Classical ML, Deep Learning, and Introduction to MLE  
 
-## Homeworks
+## <span style="color: #397DFF">Homeworks</span>
 Throughout the course, we’ll be releasing homeworks that accompany lectures.  
 - **Deadline policy**: Homework must be submitted **on the day of the next lecture** (no rolling extensions).  
 - **Homework parties**: Weekly, right after lecture — a space to ask questions and work together with your fellow members.
 
 ⚠️ Failure to adhere to the above policies may impact your eligibility to become a **client developer** the following semester and attend **Codebase social events**.  
 
-## Midterm
+## <span style="color: #397DFF">Midterm</span>
 Before switching gears to the ML portion of the curriculum, you’ll take a **60-minute midterm**.  
 - Mirrors lecture examples & homework problems  
 - Not designed to trick you — just to help us see how to best support the class  
 - Scores will not be scrutinized heavily  
 - 🎉 Expect some festivities after the exam!
 
-## Final Project
+## <span style="color: #397DFF">Final Project</span>
 You’ll complete a **final course project** in teams of **3–4 people** (with 1–2 client devs and 1–2 mentored devs).  
 - **Showcase**: At Codebase’s banquet, where you’ll present everything you’ve learned ⭐⭐⭐  
 - **Requirements**: Must incorporate full stack, databases, SWE practices, or machine learning  

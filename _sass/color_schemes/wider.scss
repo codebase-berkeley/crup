@@ -1,1 +1,165 @@
+// wider.scss is already setting the content width
 $content-width: 75rem;
+
+// Global styles
+
+body {
+  margin: 0 auto;
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.1rem;
+  background: #fafdff;
+  color: black;
+}
+
+// Links
+a,
+a:visited {
+  color: #397DFF !important;   // force blue for all links
+  text-decoration: underline;
+  font-weight: 500;
+  transition: color 0.15s;
+}
+
+a:hover,
+a:focus {
+  color: #245dcc !important;   // force dark blue for hover/focus
+  text-decoration: underline;
+}
+
+  
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  color: #397DFF;
+  font-weight: 700;
+  margin-top: 2.2rem;
+  margin-bottom: 1.2rem;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+}
+
+
+  
+
+h2 {
+  font-size: 1.75rem;
+  border-bottom: 1px solid #e0ebfa;
+  padding-bottom: 0.2rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+h4, h5, h6 {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+// Bold text
+strong, b {
+  color: #397DFF;
+  font-weight: 700;
+}
+
+// Table styles
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  background: #fff;
+  font-size: 1rem;
+}
+
+thead th {
+  background: #e4ecfa;
+  color: #397DFF;
+  font-weight: 700;
+  border-bottom: 2px solid #c6d5f9;
+  padding: 0.7rem;
+}
+
+tbody td {
+  border-bottom: 1px solid #e4ecfa;
+  padding: 0.7rem;
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) {
+  background: #f3f8fe;
+}
+
+.label {
+    background: #397DFF;
+    color: #fff !important; // ensures text stays white
+    border-radius: 1.3em;
+    padding: 0.22em 1.1em;
+    font-size: 1em;
+    font-family: 'Geist', Arial, sans-serif;
+    font-weight: 800;
+    display: inline-block;
+    letter-spacing: 0.5px;
+  }
+
+  .label, .label * {
+  color: #fff !important;
+}
+
+  
+
+// Miscellaneous
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+blockquote {
+  border-left: 4px solid #397DFF;
+  background: #f0f6fe;
+  padding: 0.6em 1em;
+  margin: 1.5em 0;
+  color: #397DFF;
+  font-style: italic;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #e4ecfa;
+  margin: 3rem 0;
+}
+
+.assignment-buttons {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.assignment-buttons .label {
+  font-size: 0.85rem;
+  padding: 0.2em 0.9em;
+  border-radius: 1em;
+}
+
+.colab-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #ff9933; // lighter orange tone
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.colab-link:hover {
+  color: #e6861f; // darker hover orange
+}
+
+.colab-link img {
+  height: 1rem;  // keeps logo small & neat
+  width: auto;
+}
+
+
+
+

@@ -4,7 +4,7 @@ nav_order: 1
 layout: home
 ---
 
-# CRUP Fall 2025
+# <span style="color: #397DFF; font-weight: 490;">CRUP Fall 2025</span>
 
 Welcome to **Codebase's Ramp Up Program (CRUP)**! We will dive into **Software Engineering, Machine Learning, and AI** through hands-on work in **Python, Java,** and **SQL**, and frameworks like **PyTorch, scikit-learn, and more!**.
 
@@ -14,7 +14,7 @@ your EdVPs <3
 
 ---
 
-## Schedule
+## <span style="color: #397DFF;">Schedule</span>
 
 <table>
   <thead>
@@ -32,11 +32,17 @@ your EdVPs <3
       <td>Sep 13</td>
       <td>Welcome! and Intro to Programming in Python (<a href="https://docs.google.com/presentation/d/1qIpgvEjE79MUhFeDaQFaAQRr6w-uNUwvFq7xgK_CEgM/edit?usp=sharing">slides</a>)</td>
       <td>
-      <span class="label"><strong>Homework</strong></span>
-        <a target="_blank"
-           href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/week-1/intro_to_python.ipynb">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-        </a>
+<div class="assignment-buttons">
+  <span class="label"><strong>Homework</strong></span>
+  <a class="colab-link" target="_blank" href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/week-1/intro_to_python.ipynb">
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab"/> Open in Colab
+  </a>
+</div>
+
+
+
+
+
       </td>
       <td>Anika</td>
     </tr>
