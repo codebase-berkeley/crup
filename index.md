@@ -22,7 +22,7 @@ your EdVPs <3
       <th style="max-width: 30px;">Week</th>
       <th>Date</th>
       <th>Lecture</th>
-      <th>Assignments</th>
+      <th>Assignment(s)</th>
       <th>DRI(s)</th>
     </tr>
   </thead>
