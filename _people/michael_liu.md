@@ -3,4 +3,4 @@ name: Michael Liu
 role: Social
 photo: michael_liu.PNG
 ---
-DRI for Calculus for ML
+DRI for Probability for ML

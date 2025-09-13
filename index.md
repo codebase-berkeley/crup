@@ -77,14 +77,14 @@ your EdVPs <3
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/calculus_for_ml/calculus_for_ml.pdf">Calculus for ML</a>
         </td>
-      <td>Renata, Michael L, Patrick</td>
+      <td>Renata, Ash, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">8</td>
       <td>Nov 1</td>
       <td>Probability for ML (<a href="https://docs.google.com/presentation/d/14cG_MEFFpDPWPzNl8PXfy1wHp_mtBWXYf1QLxYKoulc/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Ash, Patrick</td>
+      <td>Sasha, Michael L, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">9</td>
