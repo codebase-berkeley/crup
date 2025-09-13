@@ -71,6 +71,18 @@
   }
 }
 
+.site-title {
+  display: flex !important;
+  align-items: center !important;
+  
+  img {
+    height: 32px;
+    width: auto;
+    margin-right: 12px;
+    border-radius: 4px;
+  }
+}
+
 
 
 
