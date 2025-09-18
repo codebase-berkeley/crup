@@ -14,7 +14,10 @@ This page contains additional resources for each lecture to help you dive deeper
 - [Python Tutor](https://pythontutor.com/)
 
 ## <span style="color: #397DFF">Week 2: Data Structures</span>
-*Coming soon...*
+- [CS 61B Textbook](https://cs61b-2.gitbook.io/cs61b-textbook/)
+- [Dijkstra's Algorithm Video](https://www.youtube.com/watch?v=db_-e07jkjo)
+- [BFS Algorithm Video](https://www.youtube.com/watch?v=xlVX7dXLS64)
+- [DFS Algorithm Video](https://www.youtube.com/watch?v=PMMc4VsIacU)
 
 ## <span style="color: #397DFF">Week 3: Introduction to SWE I</span>
 *Coming soon...*
