@@ -18,6 +18,7 @@ This page contains additional resources for each lecture to help you dive deeper
 - [Dijkstra's Algorithm Video](https://www.youtube.com/watch?v=db_-e07jkjo)
 - [BFS Algorithm Video](https://www.youtube.com/watch?v=xlVX7dXLS64)
 - [DFS Algorithm Video](https://www.youtube.com/watch?v=PMMc4VsIacU)
+- [Linked Lists](https://www.youtube.com/watch?v=F8AbOfQwl1c)
 
 ## <span style="color: #397DFF">Week 3: Introduction to SWE I</span>
 *Coming soon...*
