@@ -50,7 +50,10 @@ your EdVPs <3
       <td style="max-width: 30px;">2</td>
       <td>Sep 20</td>
       <td>Data Structures in Java (<a href="https://docs.google.com/presentation/d/1PyR05S6xXNaIen8vqK8fAbzKMp2VKpKdoUZokiF1u5s/edit?usp=sharing">slides</a>)</td>
-      <td></td>
+      <td>
+        <span class="label"><strong>Homework</strong></span>
+        <a href="https://replit.com/@anikasikka2/JavaHomework-4?v=1#replit.md">Data Structures</a>
+        </td>
       <td>Daniel, Anika</td>
     </tr>
     <tr>
