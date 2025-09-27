@@ -55,7 +55,11 @@ your EdVPs <3
       <td style="max-width: 30px;">3</td>
       <td>Sep 27</td>
       <td>Introduction to SWE I (<a href="https://docs.google.com/presentation/d/1CyK93E87Lm_Cf46va13oNlaNh3esTJkLkM8Ij1Wn7Po/edit?usp=sharing">slides</a>)</td>
-      <td></td>
+      <td>
+        <span class="label"><strong>Homework</strong></span>
+        <a href="assets/intro_to_swe_i/intro_to_swe_i.pdf">SWE I Practice</a>
+      </td>
+
       <td>Cindy, Rachel, Anika</td>
     </tr>
     <tr>
