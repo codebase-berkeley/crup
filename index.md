@@ -76,7 +76,10 @@ your EdVPs <3
       <td style="max-width: 30px;">5</td>
       <td>Oct 11</td>
       <td>Databases (<a href="https://docs.google.com/presentation/d/1fpfz0_LdoXo_t6qInk4bLrDAQ40b4GrZgkvacAHhKTo/edit?usp=sharing">slides</a>)</td>
-      <td></td>
+      <td>
+        <span class="label"><strong>Homework</strong></span>
+        <a href="https://forms.gle/sXtSJ3W6T613zEwv6">SWE II Written</a>
+      </td>
       <td>Jaanavi, Camila, Anika</td>
     </tr>
     <tr>
