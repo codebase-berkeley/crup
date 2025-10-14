@@ -30,7 +30,18 @@ This page contains additional resources for each lecture to help you dive deeper
 *Coming soon...*
 
 ## <span style="color: #397DFF">Week 6: Linear Algebra for ML</span>
-*Coming soon...*
+- [EECS 16A fa22 notes](https://drive.google.com/file/d/1ycTbWuMXsHZf2FswWvTVFxrX8-xFWKSF/view?usp=drive_link) - System of Linear Equations
+- [EECS 16A fa22 notes](https://drive.google.com/file/d/1Iw11YsVm8NGWT7wHSAJrciq3HVlFnrNm/view?usp=drive_link) - Matrices and Vectors
+- [EECS 16A fa22 notes](https://drive.google.com/file/d/16us5Z7VDXTisiGJASUMNtoJMOr8-OMLA/view?usp=drive_link) - Matrix Multiplication
+- [EECS 16A sp25 notes](https://drive.google.com/file/d/1NcbCxCeK2hgMWabQQmI62NMqL8uyGvSv/view?usp=drive_link) - Vector Spaces, Subspaces, Bases
+- [EECS 16A sp25 notes](https://drive.google.com/file/d/1iUGX1KdLfjw2EyEmqfFFdlBUNhMWscHm/view?usp=drive_link) - Linear (In)dependence
+- [EECS 16A sp25 notes](https://drive.google.com/file/d/1UDko3_KmD9Lk7icdKs034gzSuWN4VS9Y/view?usp=drive_link) - Four Fundamental Subspaces, Rank-Nullity Theorem
+- [EECS 16a sp25 notes](https://drive.google.com/file/d/16_vQmqnrc5uxzlxdSSBWB75yLtxbXIiz/view?usp=drive_link) - Matrix Diagonalization and Change of Basis
+- [EECS 16a fa22 notes](https://drive.google.com/file/d/1QMyJwZTyE_bJqOI65ILnvzW4vj4bEMoi/view?usp=drive_link) - Least Squares
+- [EECS 16A sp25 notes](https://drive.google.com/file/d/1QRy7EiscpeZSkbpH6VFziLw58b3OF8s5/view?usp=drive_link) - Spectral Theorem
+- [EECS 16A sp25 notes](https://drive.google.com/file/d/1xgl5eHzQUZa-q2_Cf6-e0tSqN1uxvt5F/view?usp=drive_link) - SVD
+- [EECS 16A sp25 notes](https://drive.google.com/file/d/1k_9cGGCZHFi0th0_YoYCRNS_-NvOx5yh/view?usp=drive_link) - Low Rank Approximation
+
 
 ## <span style="color: #397DFF">Week 7: Calculus for ML</span>
 - [EECS 127 sp24 Reader](https://drive.google.com/file/d/1X-f6JTgsp8WHvOc4k2NcJgKm74hH2ZFD/view) - Vector Calculus  
