@@ -86,7 +86,11 @@ your EdVPs <3
       <td style="max-width: 30px;">6</td>
       <td>Oct 18</td>
       <td>Linear Algebra for ML (<a href="https://docs.google.com/presentation/d/1Cq0ep3Fjab5BCMbNVoR_R6kPvEbmBbWqgk9pQDfGu5Y/edit?usp=sharing">slides</a>)</td>
-      <td></td>
+      <td>
+        <span class="label"><strong>Homework</strong></span>
+        <a href="assets/linear_algebra_for_ml/la_for_ml.pdf">Linear Algebra for ML</a>
+        </td>
+      </td>
       <td>Adelina, Samion, Patrick</td>
     </tr>
     <tr>
