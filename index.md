@@ -59,7 +59,6 @@ your EdVPs <3
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/intro_to_swe_i/intro_to_swe_i.pdf">SWE I Practice</a>
       </td>
-
       <td>Cindy, Rachel, Anika</td>
     </tr>
     <tr>
