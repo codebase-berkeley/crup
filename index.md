@@ -94,7 +94,7 @@ your EdVPs <3
     </tr>
     <tr>
       <td style="max-width: 30px;">7</td>
-      <td>Oct 25</td>
+      <td>Oct 26</td>
       <td>Calculus for ML (<a href="https://docs.google.com/presentation/d/1rI5htE33vNN95Wo19I_uLgSKwKRdafWLPY2ffvfHm-4/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
