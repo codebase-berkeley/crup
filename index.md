@@ -88,7 +88,6 @@ your EdVPs <3
       <td>
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/linear_algebra_for_ml/crup-la_for_ml.pdf">Linear Algebra for ML</a>
-        </td>
       </td>
       <td>Adelina, Samion, Patrick</td>
     </tr>
