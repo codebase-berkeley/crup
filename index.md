@@ -89,6 +89,10 @@ your EdVPs <3
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/linear_algebra_for_ml/crup-la_for_ml.pdf">Linear Algebra for ML</a>
       </td>
+      <td>
+        <span class="label"><strong>Homework Solutions</strong></span>
+        <a href="assets/linear_algebra_for_ml/crup-la_for_ml_sol.pdf">Linear Algebra for ML</a>
+      </td>
       <td>Adelina, Samion, Patrick</td>
     </tr>
     <tr>
@@ -97,7 +101,7 @@ your EdVPs <3
       <td>Calculus for ML (<a href="https://docs.google.com/presentation/d/1rI5htE33vNN95Wo19I_uLgSKwKRdafWLPY2ffvfHm-4/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="assets/calculus_for_ml/calculus_for_ml.pdf">Calculus for ML</a>
+        <a href="assets/crup-calculus_for_ml/calculus_for_ml.pdf">Calculus for ML</a>
         </td>
       <td>Renata, Ash, Patrick</td>
     </tr>
@@ -127,7 +131,7 @@ your EdVPs <3
       <td>Nov 22</td>
       <td>Deep Learning II (<a href="https://docs.google.com/presentation/d/10gq7R-3A9MomOZEUCou14_igNJYt8ScNKowG9zrJTqA/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Tanya, Patrick</td>
+      <td>Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">12</td>
