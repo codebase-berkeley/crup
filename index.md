@@ -99,7 +99,7 @@ your EdVPs <3
       <td>Calculus for ML (<a href="https://docs.google.com/presentation/d/1rI5htE33vNN95Wo19I_uLgSKwKRdafWLPY2ffvfHm-4/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="assets/crup-calculus_for_ml/calculus_for_ml.pdf">Calculus for ML</a>
+        <a href="assets/crup-calculus_for_ml/crup-calculus_for_ml.pdf">Calculus for ML</a>
         </td>
       <td>Renata, Ash, Patrick</td>
     </tr>
