@@ -107,7 +107,10 @@ your EdVPs <3
       <td style="max-width: 30px;">8</td>
       <td>Nov 1</td>
       <td>Probability for ML (<a href="https://docs.google.com/presentation/d/14cG_MEFFpDPWPzNl8PXfy1wHp_mtBWXYf1QLxYKoulc/edit?usp=sharing">slides</a>)</td>
-      <td></td>
+      <td>
+      <span class="label"><strong>Homework</strong></span>
+        <a href="assets/prob_for_ml/crup-prob_for_ml.pdf">Probability for ML</a>
+      </td>
       <td>Sasha, Michael L, Patrick</td>
     </tr>
     <tr>
