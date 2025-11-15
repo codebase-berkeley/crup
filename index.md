@@ -101,6 +101,7 @@ your EdVPs <3
       <td>
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/calculus_for_ml/crup-calculus_for_ml.pdf">Calculus for ML</a>
+        <br>
         <span class="label"><strong>Homework Solutions</strong></span>
         <a href="assets/calculus_for_ml/crup-calculus_for_ml_sol.pdf">Calculus for ML</a>
         </td>
@@ -130,10 +131,10 @@ your EdVPs <3
       <td style="max-width: 30px;">10</td>
       <td>Nov 15</td>
       <td>Classical ML (<a href="https://docs.google.com/presentation/d/14BSKFvrhn66VpDIWytnpcN_jCSU9VPUtA96cWWwaVbY/edit?usp=sharing">slides</a>)</td>
-      <td></td>
       <td>
-      <span class="label"><strong>Homework</strong></span>
+        <span class="label"><strong>Homework</strong></span>
         <a href="assets/classical_ml/crup-classical_ml.pdf">Classical ML</a>
+      </td>
       <td>Eduardo, Patrick</td>
     </tr>
     <tr>
