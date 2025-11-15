@@ -124,7 +124,7 @@ your EdVPs <3
       <td style="max-width: 30px;">9</td>
       <td>Nov 8</td>
       <td>Break</td>
-      <td></td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
