@@ -131,6 +131,9 @@ your EdVPs <3
       <td>Nov 15</td>
       <td>Classical ML (<a href="https://docs.google.com/presentation/d/14BSKFvrhn66VpDIWytnpcN_jCSU9VPUtA96cWWwaVbY/edit?usp=sharing">slides</a>)</td>
       <td></td>
+      <td>
+      <span class="label"><strong>Homework</strong></span>
+        <a href="assets/classical_ml/crup-classical_ml.pdf">Classical ML</a>
       <td>Eduardo, Patrick</td>
     </tr>
     <tr>
