@@ -101,7 +101,6 @@ your EdVPs <3
       <td>
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/calculus_for_ml/crup-calculus_for_ml.pdf">Calculus for ML</a>
-        <br>
         <span class="label"><strong>Homework Solutions</strong></span>
         <a href="assets/linear_algebra_for_ml/crup-calculus_for_ml_sol.pdf">Calculus for ML</a>
         </td>
