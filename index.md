@@ -129,7 +129,7 @@ your EdVPs <3
     </tr>
     <tr>
       <td style="max-width: 30px;">10</td>
-      <td>Nov </td>
+      <td>Nov 15</td>
       <td>Classical ML (<a href="https://docs.google.com/presentation/d/14BSKFvrhn66VpDIWytnpcN_jCSU9VPUtA96cWWwaVbY/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td>Eduardo, Patrick</td>
