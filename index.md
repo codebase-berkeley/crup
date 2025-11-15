@@ -100,6 +100,8 @@ your EdVPs <3
       <td>
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/calculus_for_ml/crup-calculus_for_ml.pdf">Calculus for ML</a>
+        <span class="label"><strong>Homework Solutions</strong></span>
+        <a href="assets/linear_algebra_for_ml/crup-calculus_for_ml_sol.pdf">Linear Algebra for ML</a>
         </td>
       <td>Renata, Ash, Patrick</td>
     </tr>
@@ -110,36 +112,38 @@ your EdVPs <3
       <td>
       <span class="label"><strong>Homework</strong></span>
         <a href="assets/prob_for_ml/crup-prob_for_ml.pdf">Probability for ML</a>
+        <span class="label"><strong>Homework Solutions</strong></span>
+        <a href="assets/linear_algebra_for_ml/crup-prob_for_ml_sol.pdf">Linear Algebra for ML</a>
       </td>
       <td>Sasha, Michael L, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">9</td>
       <td>Nov 8</td>
-      <td>Classical ML (<a href="https://docs.google.com/presentation/d/14BSKFvrhn66VpDIWytnpcN_jCSU9VPUtA96cWWwaVbY/edit?usp=sharing">slides</a>)</td>
+      <td>Break</td>
       <td></td>
-      <td>Jessica, Socrates, Patrick</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">10</td>
-      <td>Nov 15</td>
-      <td>Deep Learning I (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
+      <td>Nov </td>
+      <td>Classical ML (<a href="https://docs.google.com/presentation/d/14BSKFvrhn66VpDIWytnpcN_jCSU9VPUtA96cWWwaVbY/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Yixuan, Patrick</td>
+      <td>Eduardo, Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">11</td>
       <td>Nov 22</td>
-      <td>Deep Learning II (<a href="https://docs.google.com/presentation/d/10gq7R-3A9MomOZEUCou14_igNJYt8ScNKowG9zrJTqA/edit?usp=sharing">slides</a>)</td>
+      <td>Deep Learning I (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Patrick</td>
+      <td>Jessica, Socrates Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">12</td>
       <td>Nov 29</td>
-      <td>Introduction to MLE (<a href="https://docs.google.com/presentation/d/1f14ahL933aL6GrbXsUhYkX34DMbhdJ9zVF-Ryy4GOeg/edit?usp=sharing">slides</a>)</td>
+      <td>Deep Learning II (<a href="https://docs.google.com/presentation/d/1f14ahL933aL6GrbXsUhYkX34DMbhdJ9zVF-Ryy4GOeg/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Patrick</td>
+      <td>Yixuan, Patrick</td>
     </tr>
   </tbody>
 </table>
