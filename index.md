@@ -102,7 +102,7 @@ your EdVPs <3
         <span class="label"><strong>Homework</strong></span>
         <a href="assets/calculus_for_ml/crup-calculus_for_ml.pdf">Calculus for ML</a>
         <span class="label"><strong>Homework Solutions</strong></span>
-        <a href="assets/linear_algebra_for_ml/crup-calculus_for_ml_sol.pdf">Calculus for ML</a>
+        <a href="assets/calculus_for_ml/crup-calculus_for_ml_sol.pdf">Calculus for ML</a>
         </td>
       <td>Renata, Ash, Patrick</td>
     </tr>
@@ -115,7 +115,7 @@ your EdVPs <3
         <a href="assets/prob_for_ml/crup-prob_for_ml.pdf">Probability for ML</a>
         <br>
         <span class="label"><strong>Homework Solutions</strong></span>
-        <a href="assets/linear_algebra_for_ml/crup-prob_for_ml_sol.pdf">Probability for ML</a>
+        <a href="assets/prob_for_ml/crup-prob_for_ml_sol.pdf">Probability for ML</a>
       </td>
       <td>Sasha, Michael L, Patrick</td>
     </tr>
