@@ -140,16 +140,16 @@ your EdVPs <3
     <tr>
       <td style="max-width: 30px;">11</td>
       <td>Nov 23</td>
-      <td>Deep Learning I (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
+      <td>Office Hours (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Jessica, Socrates Patrick</td>
+      <td>Anika, Jessica</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">12</td>
       <td>Nov 29</td>
-      <td>Deep Learning II (<a href="https://docs.google.com/presentation/d/1f14ahL933aL6GrbXsUhYkX34DMbhdJ9zVF-Ryy4GOeg/edit?usp=sharing">slides</a>)</td>
+      <td>Deep Learning I (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Yixuan, Patrick</td>
+      <td>Yixuan, Patrick, Jessica</td>
     </tr>
   </tbody>
 </table>
