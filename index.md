@@ -151,6 +151,13 @@ your EdVPs <3
       <td></td>
       <td>Yixuan, Patrick, Jessica</td>
     </tr>
+    <tr>
+      <td style="max-width: 30px;">13</td>
+      <td>Dec 6</td>
+      <td>Deep Learning II (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
+      <td></td>
+      <td>Patrick</td>
+    </tr>
   </tbody>
 </table>
 
