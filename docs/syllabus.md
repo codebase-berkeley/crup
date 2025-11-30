@@ -40,13 +40,11 @@ The course will roughly follow this outline (subject to change based on member n
 4. Introduction to SWE  
 5. Math for ML  
 6. Classical ML  
-7. Deep Learning  
-8. Introduction to MLE  
 
 ## <span style="color: #397DFF">Course Outline</span>
 - **Weeks 1–4**: Welcome! and Introduction to Programming in Python, Data Structures, and Introduction to SWE  
 - **Weeks 5–8**: Databases and Math for ML  
-- **Weeks 9–12**: Classical ML, Deep Learning, and Introduction to MLE  
+- **Weeks 9–12**: Classical ML
 
 ## <span style="color: #397DFF">Homeworks</span>
 Throughout the course, we’ll be releasing homeworks that accompany lectures.  
@@ -54,13 +52,6 @@ Throughout the course, we’ll be releasing homeworks that accompany lectures.
 - **Homework parties**: Weekly, right after lecture — a space to ask questions and work together with your fellow members.
 
 ⚠️ Failure to adhere to the above policies may impact your eligibility to become a **client developer** the following semester and attend **Codebase social events**.  
-
-## <span style="color: #397DFF">Midterm</span>
-Before switching gears to the ML portion of the curriculum, you’ll take a **60-minute midterm**.  
-- Mirrors lecture examples & homework problems  
-- Not designed to trick you — just to help us see how to best support the class  
-- Scores will not be scrutinized heavily  
-- 🎉 Expect some festivities after the exam!
 
 ## <span style="color: #397DFF">Final Project</span>
 You’ll complete a **final course project** in teams of **3–4 people** (with 1–2 client devs and 1–2 mentored devs).  

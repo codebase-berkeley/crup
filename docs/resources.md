@@ -56,12 +56,3 @@ This page contains additional resources for each lecture to help you dive deeper
 
 ## <span style="color: #397DFF">Week 9: Classical ML</span>
 *Coming soon...*
-
-## <span style="color: #397DFF">Week 10: Deep Learning I</span>
-*Coming soon...*
-
-## <span style="color: #397DFF">Week 11: Deep Learning II</span>
-*Coming soon...*
-
-## <span style="color: #397DFF">Week 12: Introduction to MLE</span>
-*Coming soon...*
