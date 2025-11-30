@@ -146,7 +146,7 @@ your EdVPs <3
     </tr>
     <tr>
       <td style="max-width: 30px;">12</td>
-      <td>Nov 29</td>
+      <td>Nov 30</td>
       <td>Project + Homework Office Hours (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td>Patrick</td>
