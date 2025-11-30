@@ -140,23 +140,23 @@ your EdVPs <3
     <tr>
       <td style="max-width: 30px;">11</td>
       <td>Nov 23</td>
-      <td>Office Hours (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
+      <td>Project + Homework Office Hours (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
       <td></td>
       <td>Anika, Jessica</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">12</td>
       <td>Nov 29</td>
-      <td>Deep Learning I (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
+      <td>Project + Homework Office Hours (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Yixuan, Patrick, Jessica</td>
+      <td>Patrick</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">13</td>
       <td>Dec 6</td>
-      <td>Deep Learning II (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
+      <td>Project + Homework Office Hours (<a href="https://docs.google.com/presentation/d/19D5MU0rPDQ7TSiSzpwSwdUBc6pYwj2tLw9du3ffNxm8/edit?usp=sharing">slides</a>)</td>
       <td></td>
-      <td>Patrick</td>
+      <td>Anika</td>
     </tr>
   </tbody>
 </table>
