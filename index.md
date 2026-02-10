@@ -30,7 +30,7 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">1</td>
       <td>Feb 6</td>
-      <td>Welcome! and Intro to Programming in Python (<a href="https://docs.google.com/presentation/d/1qIpgvEjE79MUhFeDaQFaAQRr6w-uNUwvFq7xgK_CEgM/edit?usp=sharing">slides</a>)</td>
+      <td>Welcome! and Intro to Programming in Python (<a href="https://docs.google.com/presentation/d/1KU3esWbu1Nb1dzr1fDRRJ9pM3FEPMhYHw1XOnBgudT4/edit?usp=sharing">slides</a>)</td>
       <td>
 <div class="assignment-buttons">
   <span class="label"><strong>Homework</strong></span>
