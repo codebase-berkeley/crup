@@ -1,0 +1,106 @@
+---
+title: Facilitators
+parent: Archive
+permalink: /archive/facilitators/
+nav_order: 4
+layout: default
+---
+
+[← Archive home]({{ site.baseurl }}/archive/)
+
+<style>
+.role {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.person {
+  display: flex;
+  flex-basis: 45%;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  background-color: #ffffff;
+  transition: box-shadow 0.2s ease;
+}
+
+.person:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.person-image {
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+  margin-right: 0.75rem;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.person-name {
+  margin: 0.25rem 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #397DFF;
+}
+
+.person-name a {
+  color: #397DFF;
+  text-decoration: none;
+}
+
+.person-name a:hover {
+  text-decoration: underline;
+}
+
+.person-role {
+  font-weight: 500;
+  color: #397DFF;
+  margin: 0.25rem 0;
+  font-size: 0.9rem;
+}
+
+.person p {
+  margin: 0.25rem 0;
+  line-height: 1.4;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 768px) {
+  .person {
+    flex-direction: column;
+    text-align: center;
+    padding: 0.75rem;
+    flex-basis: 100%;
+  }
+  
+  .person-image {
+    margin-right: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .role {
+    flex-direction: column;
+  }
+}
+</style>
+
+# <span style="color: #397DFF; font-weight: 350">Facilitators</span>
+
+Running CRUP would not be possible without these amazing people!
+
+<div class="role">
+{% assign edvps = site.people | where: 'role', 'VP of Education' %}
+{% for person in edvps %}
+{{ person }}
+{% endfor %}
+</div>
+
+<div class="role">
+{% assign others = site.people | where_exp: 'person', 'person.role != "VP of Education"' %}
+{% for person in others %}
+{{ person }}
+{% endfor %}
+</div>

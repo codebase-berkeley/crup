@@ -4,13 +4,13 @@ nav_order: 1
 layout: home
 ---
 
-# <span style="color: #397DFF; font-weight: 490;">CRUP Fall 2025</span>
+# <span style="color: #397DFF; font-weight: 490;">CRUP Spring 2026</span>
 
 Welcome to **Codebase's Ramp Up Program (CRUP)**! We will dive into **Software Engineering, Machine Learning, and AI** through hands-on work in **Python, Java,** and **SQL**, and frameworks like **PyTorch, scikit-learn, and more!**.
 
 CRUP is brought to you by...
 
-your EdVPs <3
+your EdVPs 💙
 
 ---
 
@@ -29,7 +29,7 @@ your EdVPs <3
   <tbody>
     <tr>
       <td style="max-width: 30px;">1</td>
-      <td>Sep 13</td>
+      <td>Feb 6</td>
       <td>Welcome! and Intro to Programming in Python (<a href="https://docs.google.com/presentation/d/1qIpgvEjE79MUhFeDaQFaAQRr6w-uNUwvFq7xgK_CEgM/edit?usp=sharing">slides</a>)</td>
       <td>
 <div class="assignment-buttons">
@@ -39,124 +39,116 @@ your EdVPs <3
   </a>
 </div>
       </td>
-      <td>Anika</td>
+      <td>Daniel</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">2</td>
-      <td>Sep 20</td>
-      <td>Data Structures in Java (<a href="https://docs.google.com/presentation/d/1PyR05S6xXNaIen8vqK8fAbzKMp2VKpKdoUZokiF1u5s/edit?usp=sharing">slides</a>)</td>
+      <td>Feb 17</td>
+      <td>Data Structures</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="https://replit.com/@anikasikka2/JavaHomework-4?v=1#replit.md">Data Structures</a>
+        Mock Interview
         </td>
-      <td>Daniel, Anika</td>
+      <td>Daniel, Jaansi</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">3</td>
-      <td>Sep 27</td>
-      <td>Introduction to SWE I (<a href="https://docs.google.com/presentation/d/1CyK93E87Lm_Cf46va13oNlaNh3esTJkLkM8Ij1Wn7Po/edit?usp=sharing">slides</a>)</td>
+      <td>Feb 24</td>
+      <td>Intro to SWE</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="assets/intro_to_swe_i/intro_to_swe_i.pdf">SWE I Practice</a>
+        <span style="display: inline-block; vertical-align: top;">
+          Git Practice<br>[Client] Snek
+        </span>
       </td>
-      <td>Cindy, Rachel, Anika</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">4</td>
-      <td>Oct 4</td>
-      <td>Introduction to SWE II (<a href="https://docs.google.com/presentation/d/17kl5XRbfkUmfXsrIXRDELY_rYeVDvOcEGczVQH-F7ZE/edit?usp=sharing">slides</a>)</td>
+      <td>Mar 3</td>
+      <td>Distributed Systems</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="assets/intro_to_swe_ii/intro_to_swe_ii.pdf">SWE II Written</a>
+        Written Questions
       </td>
-      <td>Kenny, Nicole, Anika</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">5</td>
-      <td>Oct 11</td>
-      <td>Databases (<a href="https://docs.google.com/presentation/d/1fpfz0_LdoXo_t6qInk4bLrDAQ40b4GrZgkvacAHhKTo/edit?usp=sharing">slides</a>)</td>
+      <td>Mar 10</td>
+      <td>Databases</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="https://forms.gle/sXtSJ3W6T613zEwv6">Feedback Form</a>
+        TBA
       </td>
-      <td>Jaanavi, Camila, Anika</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">6</td>
-      <td>Oct 18</td>
-      <td>Linear Algebra for ML (<a href="https://docs.google.com/presentation/d/1Cq0ep3Fjab5BCMbNVoR_R6kPvEbmBbWqgk9pQDfGu5Y/edit?usp=sharing">slides</a>)</td>
+      <td>Mar 15</td>
+      <td>CRUP Hackathon</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="assets/linear_algebra_for_ml/crup-la_for_ml.pdf">Linear Algebra for ML</a>
-        <br>
-        <span class="label"><strong>Homework Solutions</strong></span>
-        <a href="assets/linear_algebra_for_ml/crup-la_for_ml_sol.pdf">Linear Algebra for ML</a>
+        TBA
       </td>
-      <td>Adelina, Samion, Patrick</td>
+      <td>Jaansi, Daniel</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">7</td>
-      <td>Oct 26</td>
-      <td>Calculus for ML (<a href="https://docs.google.com/presentation/d/1rI5htE33vNN95Wo19I_uLgSKwKRdafWLPY2ffvfHm-4/edit?usp=sharing">slides</a>)</td>
+      <td>Mar 31</td>
+      <td>Introduction to ML</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="assets/calculus_for_ml/crup-calculus_for_ml.pdf">Calculus for ML</a>
-        <br>
-        <span class="label"><strong>Homework Solutions</strong></span>
-        <a href="assets/calculus_for_ml/crup-calculus_for_ml_sol.pdf">Calculus for ML</a>
+        TBA
         </td>
-      <td>Renata, Ash, Patrick</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">8</td>
-      <td>Nov 1</td>
-      <td>Probability for ML (<a href="https://docs.google.com/presentation/d/14cG_MEFFpDPWPzNl8PXfy1wHp_mtBWXYf1QLxYKoulc/edit?usp=sharing">slides</a>)</td>
+      <td>Apr 7</td>
+      <td>Math for ML</td>
       <td>
       <span class="label"><strong>Homework</strong></span>
-        <a href="assets/prob_for_ml/crup-prob_for_ml.pdf">Probability for ML</a>
-        <br>
-        <span class="label"><strong>Homework Solutions</strong></span>
-        <a href="assets/prob_for_ml/crup-prob_for_ml_sol.pdf">Probability for ML</a>
+        TBA
       </td>
-      <td>Sasha, Michael L, Patrick</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">9</td>
-      <td>Nov 8</td>
-      <td>Break</td>
-      <td>N/A</td>
-      <td>N/A</td>
+      <td>Apr 14</td>
+      <td>Classical ML</td>
+      <td>
+        <span class="label"><strong>Homework</strong></span>
+        TBA
+      </td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">10</td>
-      <td>Nov 15</td>
-      <td>Classical ML (<a href="https://docs.google.com/presentation/d/14BSKFvrhn66VpDIWytnpcN_jCSU9VPUtA96cWWwaVbY/edit?usp=sharing">slides</a>)</td>
+      <td>Apr 21</td>
+      <td>Deep Learning</td>
       <td>
-        <span class="label"><strong>Homework</strong></span>
-        <a href="assets/classical_ml/crup-classical_ml.pdf">Classical ML</a>
+      <span class="label"><strong>Homework</strong></span>
+        TBA
       </td>
-      <td>Eduardo, Patrick</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">11</td>
-      <td>Nov 23</td>
-      <td>Project + Homework Office Hours</td>
-      <td></td>
-      <td>Anika, Jessica</td>
+      <td>Apr 28</td>
+      <td>NLP + Transformers</td>
+      <td>
+      <span class="label"><strong>Homework</strong></span>
+        TBA
+      </td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">12</td>
-      <td>Nov 30</td>
-      <td>Project + Homework Office Hours</td>
+      <td>May 6</td>
+      <td>Final CRUP Presentations</td>
       <td></td>
-      <td>Patrick</td>
-    </tr>
-    <tr>
-      <td style="max-width: 30px;">13</td>
-      <td>Dec 6</td>
-      <td>Project + Homework Office Hours</td>
-      <td></td>
-      <td>Anika</td>
+      <td>Jaansi, Daniel</td>
     </tr>
   </tbody>
 </table>
