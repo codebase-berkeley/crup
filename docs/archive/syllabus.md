@@ -11,7 +11,7 @@ layout: default
 # <span style="color: #397DFF; font-weight: 350">Syllabus</span>
 
 ## <span style="color: #397DFF">Course Format</span>
-- **Length**: 3 hours, once a week, in person (or hybrid, depending on availability).  
+- **Length**: 2 hours, once a week, in person (or hybrid, depending on availability).  
 - **Time & Date**: Saturday or Sunday from 10am–1pm.  
 
 ## <span style="color: #397DFF">Contact Information</span>

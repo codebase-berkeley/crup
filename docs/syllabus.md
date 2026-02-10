@@ -7,8 +7,9 @@ layout: home
 # <span style="color: #397DFF; font-weight: 350">Syllabus</span>
 
 ## <span style="color: #397DFF">Course Format</span>
-- **Length**: 3 hours, once a week, in person (or hybrid, depending on availability).  
-- **Time & Date**: Saturday or Sunday from 10am–1pm.  
+- **Length**: 2 hours, every week.  
+- **Time & Date**: Tuesday 6-8pm.  
+- **Office Hours**: Wednesday 10am-3pm, Haas library.  
 
 ## <span style="color: #397DFF">Contact Information</span>
 - **EdVPs**: [education@codebase.studentorg.berkeley.edu](mailto:education@codebase.studentorg.berkeley.edu)
@@ -36,26 +37,31 @@ By the end of the 12 weeks, we hope you:
 The course will roughly follow this outline (subject to change based on member needs, popularity, and resources):  
 1. Programming in Python  
 2. Data Structures  
-3. SQL and Databases  
-4. Introduction to SWE  
-5. Math for ML  
-6. Classical ML  
+3. Introduction to SWE
+4. Databases
+5. Distributed Systems
+6. Introduction to ML 
+7. Math for ML
+8. Classical ML  
+9. Deep Learning
+10. NLP + Transformers
 
 ## <span style="color: #397DFF">Course Outline</span>
-- **Weeks 1–4**: Welcome! and Introduction to Programming in Python, Data Structures, and Introduction to SWE  
-- **Weeks 5–8**: Databases and Math for ML  
+- **Weeks 1–5**: Software Engineering
+- **Weeks 6**: CRUP Hackathon + Midterm Project
+- **Weeks 7–11**: Machine Learning
 - **Weeks 9–12**: Classical ML
 
 ## <span style="color: #397DFF">Homeworks</span>
 Throughout the course, we’ll be releasing homeworks that accompany lectures.  
 - **Deadline policy**: Homework must be submitted **on the day of the next lecture** (no rolling extensions).  
-- **Homework parties**: Weekly, right after lecture — a space to ask questions and work together with your fellow members.
+- **Homework parties**: Every Wednesday from 10am to 12:30pm — a space to ask questions and work together with your fellow new mems!! Even if you don't have questions, stop by just to hang out :) 
 
 ⚠️ Failure to adhere to the above policies may impact your eligibility to become a **client developer** the following semester and attend **Codebase social events**.  
 
 ## <span style="color: #397DFF">Final Project</span>
 You’ll complete a **final course project** in teams of **3–4 people** (with 1–2 client devs and 1–2 mentored devs).  
-- **Showcase**: At Codebase’s banquet, where you’ll present everything you’ve learned ⭐⭐⭐  
+- **Showcase**: Before, Codebase's banquet, where you’ll present everything you’ve learned ⭐⭐⭐  
 - **Requirements**: Must incorporate full stack, databases, SWE practices, or machine learning  
 - **Logistics**: Details announced in **Week 10**  
 
