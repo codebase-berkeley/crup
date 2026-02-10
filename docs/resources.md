@@ -8,28 +8,28 @@ layout: home
 
 This page contains additional resources for each lecture to help you dive deeper into the topics covered.
 
-## <span style="color: #397DFF">Week 1: Welcome! and Introduction to Programming in Python</span>
+## <span style="color: #397DFF">Introduction to Programming in Python</span>
 - [Composing Programs Online Textbook](https://www.composingprograms.com/)
 - [CS 61A Lecture Videos](https://www.youtube.com/@JohnDeNero/playlists)
 - [Python Tutor](https://pythontutor.com/)
 
-## <span style="color: #397DFF">Week 2: Data Structures</span>
+## <span style="color: #397DFF">Data Structures</span>
 - [CS 61B Textbook](https://cs61b-2.gitbook.io/cs61b-textbook/)
 - [Dijkstra's Algorithm Video](https://www.youtube.com/watch?v=db_-e07jkjo)
 - [BFS Algorithm Video](https://www.youtube.com/watch?v=xlVX7dXLS64)
 - [DFS Algorithm Video](https://www.youtube.com/watch?v=PMMc4VsIacU)
 - [Linked Lists](https://www.youtube.com/watch?v=F8AbOfQwl1c)
 
-## <span style="color: #397DFF">Week 3: Introduction to SWE I</span>
+## <span style="color: #397DFF">Introduction to SWE I</span>
 *Coming soon...*
 
-## <span style="color: #397DFF">Week 4: Introduction to SWE II</span>
+## <span style="color: #397DFF">Introduction to SWE II</span>
 *Coming soon...*
 
-## <span style="color: #397DFF">Week 5: Databases</span>
+## <span style="color: #397DFF">Databases</span>
 *Coming soon...*
 
-## <span style="color: #397DFF">Week 6: Linear Algebra for ML</span>
+## <span style="color: #397DFF">Linear Algebra for ML</span>
 - [EECS 16A fa22 notes - System of Linear Equations](https://drive.google.com/file/d/1ycTbWuMXsHZf2FswWvTVFxrX8-xFWKSF/view?usp=drive_link)
 - [EECS 16A fa22 notes - Matrices and Vectors](https://drive.google.com/file/d/1Iw11YsVm8NGWT7wHSAJrciq3HVlFnrNm/view?usp=drive_link)
 - [EECS 16A fa22 notes - Matrix Multiplication](https://drive.google.com/file/d/16us5Z7VDXTisiGJASUMNtoJMOr8-OMLA/view?usp=drive_link)
@@ -43,7 +43,7 @@ This page contains additional resources for each lecture to help you dive deeper
 - [EECS 16A sp25 notes - Low Rank Approximation](https://drive.google.com/file/d/1k_9cGGCZHFi0th0_YoYCRNS_-NvOx5yh/view?usp=drive_link)
 
 
-## <span style="color: #397DFF">Week 7: Calculus for ML</span>
+## <span style="color: #397DFF">Calculus for ML</span>
 - [EECS 127 sp24 Reader](https://drive.google.com/file/d/1X-f6JTgsp8WHvOc4k2NcJgKm74hH2ZFD/view) - Vector Calculus  
 - [EECS 127 sp24 - Vector Calculus I Recording](https://www.youtube.com/watch?v=QvnXLI4HwLM&list=PLnocShPlK-FsQ-Sflqs4tbX-dKhYZSD3g&index=8) - Watch until end  
 - [EECS 127 sp24 - Vector Calculus II Recording](https://www.youtube.com/watch?v=0CJbfW4_Y3g&list=PLnocShPlK-FsQ-Sflqs4tbX-dKhYZSD3g&index=9) - Watch until 34:45  
@@ -51,8 +51,8 @@ This page contains additional resources for each lecture to help you dive deeper
 - [MATH 53 fa22 notes - Partial Derivatives, Tangent Planes, and Linear Approximations](https://drive.google.com/file/d/1MFwlXkN9N0RGNCZTtC9_wfPL42TnhieN/view)  
 - [MATH 53 fa22 notes - The Chain Rule](https://drive.google.com/file/d/1kP-jRggb76k36Yibyawh9WBWVRyBSRhl/view)  
 
-## <span style="color: #397DFF">Week 8: Probability for ML</span>
+## <span style="color: #397DFF">Probability for ML</span>
 *Coming soon...*
 
-## <span style="color: #397DFF">Week 9: Classical ML</span>
+## <span style="color: #397DFF">Classical ML</span>
 *Coming soon...*
