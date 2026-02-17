@@ -49,7 +49,7 @@ your EdVPs 💙
         <span class="label"><strong>Homework</strong></span>
         <a href="https://drive.google.com/file/d/1A-ikjM04AIoGYCrMlsznf3VIXiJ_TEiz/view?usp=sharing">Mock Interview</a>
         </td>
-      <td>Daniel, Jaansi</td>
+      <td>Jaansi</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">3</td>
