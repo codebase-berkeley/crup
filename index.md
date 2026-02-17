@@ -47,7 +47,7 @@ your EdVPs 💙
       <td>Data Structures</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        Mock Interview
+        <a href="https://drive.google.com/file/d/1A-ikjM04AIoGYCrMlsznf3VIXiJ_TEiz/view?usp=sharing">Mock Interview</a>
         </td>
       <td>Daniel, Jaansi</td>
     </tr>
