@@ -58,7 +58,7 @@ your EdVPs 💙
       <td>
         <span class="label"><strong>Homework</strong></span>
         <span style="display: inline-block; vertical-align: top;">
-          Git Practice<br><a href="https://drive.google.com/file/d/1Tz4Bmvzy7wwcZJZfQkcqXl59jEWZNBUP/view?usp=sharing">[Client] Snek</a>
+          <a href="https://drive.google.com/file/d/1Tz4Bmvzy7wwcZJZfQkcqXl59jEWZNBUP/view?usp=sharing">Git Practice</a><br>[Client] Snek
         </span>
       </td>
       <td>Daniel, Jaansi</td>
