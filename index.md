@@ -44,7 +44,7 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">2</td>
       <td>Feb 17</td>
-      <td>Data Structures</td>
+      <td>Data Structures (<a href="https://docs.google.com/presentation/d/1KznW5kZM628226pI6IcegnWZLW5vrF_V8TI8SuCCZy0/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
         <a href="https://drive.google.com/file/d/1A-ikjM04AIoGYCrMlsznf3VIXiJ_TEiz/view?usp=sharing">Mock Interview</a>
@@ -54,14 +54,14 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">3</td>
       <td>Feb 24</td>
-      <td>Intro to SWE</td>
+      <td>Intro to SWE (<a href="https://docs.google.com/presentation/d/1oM0s0RrPZogPamvuXeOvsqauV_YIcyRmE9AwiTgsUgU/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
         <span style="display: inline-block; vertical-align: top;">
-          Git Practice<br>[Client] Snek
+          Git Practice<br><a href="https://drive.google.com/file/d/1Tz4Bmvzy7wwcZJZfQkcqXl59jEWZNBUP/view?usp=sharing">[Client] Snek</a>
         </span>
       </td>
-      <td>TBA</td>
+      <td>Daniel, Jaansi</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">4</td>
@@ -71,7 +71,7 @@ your EdVPs 💙
         <span class="label"><strong>Homework</strong></span>
         Written Questions
       </td>
-      <td>TBA</td>
+      <td>Anika</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">5</td>
