@@ -58,7 +58,8 @@ your EdVPs 💙
       <td>
         <span class="label"><strong>Homework</strong></span>
         <span style="display: inline-block; vertical-align: top;">
-          <a href="https://drive.google.com/file/d/1Tz4Bmvzy7wwcZJZfQkcqXl59jEWZNBUP/view?usp=sharing">Git Practice</a><br>[Client] Snek
+          <a href="https://drive.google.com/file/d/1Tz4Bmvzy7wwcZJZfQkcqXl59jEWZNBUP/view?usp=sharing">Git Practice</a><br>
+          <a href="https://github.com/jaansiparsa/snek-crup">[Client] Snek</a>
         </span>
       </td>
       <td>Daniel, Jaansi</td>
