@@ -43,7 +43,7 @@ your EdVPs 💙
     </tr>
     <tr>
       <td style="max-width: 30px;">2</td>
-      <td>Feb 17</td>
+      <td>Feb 16</td>
       <td>Data Structures (<a href="https://docs.google.com/presentation/d/1KznW5kZM628226pI6IcegnWZLW5vrF_V8TI8SuCCZy0/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
@@ -53,7 +53,7 @@ your EdVPs 💙
     </tr>
     <tr>
       <td style="max-width: 30px;">3</td>
-      <td>Feb 24</td>
+      <td>Feb 23</td>
       <td>Intro to SWE (<a href="https://docs.google.com/presentation/d/1oM0s0RrPZogPamvuXeOvsqauV_YIcyRmE9AwiTgsUgU/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
@@ -66,23 +66,23 @@ your EdVPs 💙
     </tr>
     <tr>
       <td style="max-width: 30px;">4</td>
-      <td>Mar 3</td>
+      <td>Mar 2</td>
       <td>Distributed Systems</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
         Written Questions
       </td>
-      <td>Anika</td>
+      <td>Eddie, Daniel</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">5</td>
-      <td>Mar 10</td>
+      <td>Mar 9</td>
       <td>Databases</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
         TBA
       </td>
-      <td>TBA</td>
+      <td>SJ, Camila</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">6</td>
@@ -96,7 +96,7 @@ your EdVPs 💙
     </tr>
     <tr>
       <td style="max-width: 30px;">7</td>
-      <td>Mar 31</td>
+      <td>Mar 30</td>
       <td>Introduction to ML</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
@@ -106,7 +106,7 @@ your EdVPs 💙
     </tr>
     <tr>
       <td style="max-width: 30px;">8</td>
-      <td>Apr 7</td>
+      <td>Apr 6</td>
       <td>Math for ML</td>
       <td>
       <span class="label"><strong>Homework</strong></span>
@@ -116,7 +116,7 @@ your EdVPs 💙
     </tr>
     <tr>
       <td style="max-width: 30px;">9</td>
-      <td>Apr 14</td>
+      <td>Apr 13</td>
       <td>Classical ML</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
@@ -136,7 +136,7 @@ your EdVPs 💙
     </tr>
     <tr>
       <td style="max-width: 30px;">11</td>
-      <td>Apr 28</td>
+      <td>Apr 27</td>
       <td>NLP + Transformers</td>
       <td>
       <span class="label"><strong>Homework</strong></span>
