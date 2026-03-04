@@ -114,7 +114,7 @@ your EdVPs 💙
       <span class="label"><strong>Homework</strong></span>
         TBA
       </td>
-      <td>TBA</td>
+      <td>Arjun</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">9</td>
@@ -124,7 +124,7 @@ your EdVPs 💙
         <span class="label"><strong>Homework</strong></span>
         TBA
       </td>
-      <td>TBA</td>
+      <td>Sarika, Eddie</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">10</td>
@@ -134,7 +134,7 @@ your EdVPs 💙
       <span class="label"><strong>Homework</strong></span>
         TBA
       </td>
-      <td>TBA</td>
+      <td>Patrick, Jaansi</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">11</td>
@@ -144,7 +144,7 @@ your EdVPs 💙
       <span class="label"><strong>Homework</strong></span>
         TBA
       </td>
-      <td>TBA</td>
+      <td>David, Jaansi</td>
     </tr>
     <tr>
       <td style="max-width: 30px;">12</td>
