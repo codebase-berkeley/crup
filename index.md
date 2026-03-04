@@ -67,10 +67,12 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">4</td>
       <td>Mar 2</td>
-      <td>Distributed Systems</td>
+      <td>Distributed Systems (<a href="https://docs.google.com/presentation/d/1AcujVxH4_EsgSz_fs7WZ0XQyrAHAZPpUnrLuuqRFIxo/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        Written Questions
+          <span style="display: inline-block; vertical-align: top;">
+          <a href="https://drive.google.com/file/d/1l9Wq7ViHVuuZxhNJLmVxczg-mv9JQGn1/view?usp=sharing">Written Homework</a><br>
+        </span>
       </td>
       <td>Eddie, Daniel</td>
     </tr>
