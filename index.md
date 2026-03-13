@@ -79,7 +79,7 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">5</td>
       <td>Mar 9</td>
-      <td>Databases</td>
+      <td>Databases (<a href="https://docs.google.com/presentation/d/1rTCali31RIXsADpQsERh9ZkAVf6rdtsAS-fF9_jCWcA/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
         <a href="https://drive.google.com/file/d/1O0TU27YGHqmsGslu5l8BQi9sLSpVpAKK/view?usp=sharing">SQL Homework</a><br>
