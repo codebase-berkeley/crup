@@ -82,6 +82,7 @@ your EdVPs 💙
       <td>Databases</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
+        <a href="https://drive.google.com/file/d/1O0TU27YGHqmsGslu5l8BQi9sLSpVpAKK/view?usp=sharing">SQL Homework</a><br>
         TBA
       </td>
       <td>SJ, Camila</td>
