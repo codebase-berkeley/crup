@@ -99,7 +99,7 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">7</td>
       <td>Mar 30</td>
-      <td>Introduction to ML</td>
+      <td>Introduction to ML (<a href="https://docs.google.com/presentation/d/1TOzKhNdWKGPastoUGbYV_Lia2pmxgGvhGjWnD2z9ARI/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
         <a href="https://drive.google.com/file/d/1VziatWodpu11rgTjYS2Xa-AezAFaJpjM/view?usp=sharing">Intro to ML Homework</a>
@@ -109,7 +109,7 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">8</td>
       <td>Apr 6</td>
-      <td>Math for ML</td>
+      <td>Math for ML (<a href="https://docs.google.com/presentation/d/1uoijbrhfulFASXuYVguhx5GRh3AGfxGaKts3lpXJGHE/edit?usp=sharing">slides</a>)</td>
       <td>
       <span class="label"><strong>Homework</strong></span>
         <a href="https://drive.google.com/file/d/1NZimvSRnsIpda1h_9HD3Xkt98vwmiIkQ/view?usp=sharing">Math for ML Homework</a>
