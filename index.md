@@ -102,7 +102,7 @@ your EdVPs 💙
       <td>Introduction to ML</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        TBA
+        <a href="https://drive.google.com/file/d/1VziatWodpu11rgTjYS2Xa-AezAFaJpjM/view?usp=sharing">Intro to ML Homework</a>
         </td>
       <td>TBA</td>
     </tr>
@@ -112,7 +112,7 @@ your EdVPs 💙
       <td>Math for ML</td>
       <td>
       <span class="label"><strong>Homework</strong></span>
-        TBA
+        <a href="https://drive.google.com/file/d/1NZimvSRnsIpda1h_9HD3Xkt98vwmiIkQ/view?usp=sharing">Math for ML Homework</a>
       </td>
       <td>Arjun</td>
     </tr>
