@@ -1,8 +1,12 @@
 ---
-title: CRUP Final Project
+title: Final Project
+parent: Archive
+permalink: /archive/fa25/final_project/
 nav_order: 3
-layout: home
+layout: default
 ---
+
+[← Archive home]({{ site.baseurl }}/archive/)
 
 # <span style="color: #397DFF; font-weight: 350">CRUP Fall 2025 Final Project</span>
 
@@ -24,8 +28,8 @@ Your task is to identify a clear, answerable question that requires machine lear
 ### Dataset Requirements
 - Must come from a real dataset (e.g., **Kaggle**, **Hugging Face**)  
 - Your project must be one of the following:  
-  - **Classification** (e.g., “Will this customer churn?”)  
-  - **Regression** (e.g., “What will this house sell for?”)  
+  - **Classification** (e.g., "Will this customer churn?")  
+  - **Regression** (e.g., "What will this house sell for?")  
 
 ---
 

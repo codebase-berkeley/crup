@@ -1,7 +1,7 @@
 ---
 title: Syllabus
 parent: Archive
-permalink: /archive/syllabus/
+permalink: /archive/fa25/syllabus/
 nav_order: 1
 layout: default
 ---

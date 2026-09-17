@@ -1,6 +1,6 @@
 ---
 title: Archive
-permalink: /archive/
+permalink: /archive/fa25/
 nav_order: 10
 layout: home
 ---

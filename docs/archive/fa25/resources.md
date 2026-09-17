@@ -1,7 +1,7 @@
 ---
 title: Additional Resources
 parent: Archive
-permalink: /archive/resources/
+permalink: /archive/fa25/resources/
 nav_order: 2
 layout: default
 ---

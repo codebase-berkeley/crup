@@ -1,7 +1,7 @@
 ---
 title: Facilitators
 parent: Archive
-permalink: /archive/facilitators/
+permalink: /archive/fa25/facilitators/
 nav_order: 4
 layout: default
 ---
