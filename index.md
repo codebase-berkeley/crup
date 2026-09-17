@@ -32,7 +32,7 @@ your EdVPs 💙
       <td>Welcome! and Intro to Programming in Python</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        TBA
+        Intake Form, Codebaby Day 0 Video, Intro to Programming in Python
       </td>
     </tr>
     <tr>
