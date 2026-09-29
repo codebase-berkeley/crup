@@ -32,7 +32,7 @@ your EdVPs 💙
       <td>Welcome! and Intro to Programming in Python</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        Intake Form, Codebaby Day 0 Video, Intro to Programming in Python
+        Intake Form, Codebaby Day 0 Video
       </td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@ your EdVPs 💙
       <td>Intro to SWE</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        TBA
+        Design Doc Part 1, Git Practice (Optional), Intro to Programming in Python (Optional)
       </td>
     </tr>
     <tr>
