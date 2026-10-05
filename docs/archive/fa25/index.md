@@ -39,7 +39,7 @@ your EdVPs <3
       <td>
 <div class="assignment-buttons">
   <span class="label"><strong>Homework</strong></span>
-  <a class="colab-link" target="_blank" href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/week-1/intro_to_python.ipynb">
+  <a class="colab-link" target="_blank" href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/intro_to_python/intro_to_python.ipynb">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab"/> Open in Colab
   </a>
 </div>
@@ -62,7 +62,7 @@ your EdVPs <3
       <td>Intro to SWE (<a href="https://docs.google.com/presentation/d/1CyK93E87Lm_Cf46va13oNlaNh3esTJkLkM8Ij1Wn7Po/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="{{ site.baseurl }}/assets/intro_to_swe_i/intro_to_swe_i.pdf">SWE I Practice</a>
+        <a href="{{ site.baseurl }}/assets/archive/intro_to_swe_i/intro_to_swe_i.pdf">SWE I Practice</a>
       </td>
       <td>Cindy, Rachel, Anika</td>
     </tr>
@@ -72,7 +72,7 @@ your EdVPs <3
       <td>Distributed Systems (<a href="https://docs.google.com/presentation/d/17kl5XRbfkUmfXsrIXRDELY_rYeVDvOcEGczVQH-F7ZE/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="{{ site.baseurl }}/assets/intro_to_swe_ii/intro_to_swe_ii.pdf">SWE II Written</a>
+        <a href="{{ site.baseurl }}/assets/archive/intro_to_swe_ii/intro_to_swe_ii.pdf">SWE II Written</a>
       </td>
       <td>Kenny, Nicole, Anika</td>
     </tr>
@@ -92,10 +92,10 @@ your EdVPs <3
       <td>CRUP Hackathon</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="{{ site.baseurl }}/assets/linear_algebra_for_ml/crup-la_for_ml.pdf">Linear Algebra for ML</a>
+        <a href="{{ site.baseurl }}/assets/archive/linear_algebra_for_ml/crup-la_for_ml.pdf">Linear Algebra for ML</a>
         <br>
         <span class="label"><strong>Homework Solutions</strong></span>
-        <a href="{{ site.baseurl }}/assets/linear_algebra_for_ml/crup-la_for_ml_sol.pdf">Linear Algebra for ML</a>
+        <a href="{{ site.baseurl }}/assets/archive/linear_algebra_for_ml/crup-la_for_ml_sol.pdf">Linear Algebra for ML</a>
       </td>
       <td>Adelina, Samion, Patrick</td>
     </tr>
@@ -105,10 +105,10 @@ your EdVPs <3
       <td>Introduction to ML (<a href="https://docs.google.com/presentation/d/1Cq0ep3Fjab5BCMbNVoR_R6kPvEbmBbWqgk9pQDfGu5Y/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="{{ site.baseurl }}/assets/calculus_for_ml/crup-calculus_for_ml.pdf">Calculus for ML</a>
+        <a href="{{ site.baseurl }}/assets/archive/calculus_for_ml/crup-calculus_for_ml.pdf">Calculus for ML</a>
         <br>
         <span class="label"><strong>Homework Solutions</strong></span>
-        <a href="{{ site.baseurl }}/assets/calculus_for_ml/crup-calculus_for_ml_sol.pdf">Calculus for ML</a>
+        <a href="{{ site.baseurl }}/assets/archive/calculus_for_ml/crup-calculus_for_ml_sol.pdf">Calculus for ML</a>
         </td>
       <td>Renata, Ash, Patrick</td>
     </tr>
@@ -118,10 +118,10 @@ your EdVPs <3
       <td>Math for ML (<a href="https://docs.google.com/presentation/d/14cG_MEFFpDPWPzNl8PXfy1wHp_mtBWXYf1QLxYKoulc/edit?usp=sharing">slides</a>)</td>
       <td>
       <span class="label"><strong>Homework</strong></span>
-        <a href="{{ site.baseurl }}/assets/prob_for_ml/crup-prob_for_ml.pdf">Probability for ML</a>
+        <a href="{{ site.baseurl }}/assets/archive/prob_for_ml/crup-prob_for_ml.pdf">Probability for ML</a>
         <br>
         <span class="label"><strong>Homework Solutions</strong></span>
-        <a href="{{ site.baseurl }}/assets/prob_for_ml/crup-prob_for_ml_sol.pdf">Probability for ML</a>
+        <a href="{{ site.baseurl }}/assets/archive/prob_for_ml/crup-prob_for_ml_sol.pdf">Probability for ML</a>
       </td>
       <td>Sasha, Michael L, Patrick</td>
     </tr>
@@ -131,7 +131,7 @@ your EdVPs <3
       <td>Classical ML (<a href="https://docs.google.com/presentation/d/14BSKFvrhn66VpDIWytnpcN_jCSU9VPUtA96cWWwaVbY/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="{{ site.baseurl }}/assets/classical_ml/crup-classical_ml.pdf">Classical ML</a>
+        <a href="{{ site.baseurl }}/assets/archive/classical_ml/crup-classical_ml.pdf">Classical ML</a>
       </td>
       <td>Eduardo, Patrick</td>
     </tr>

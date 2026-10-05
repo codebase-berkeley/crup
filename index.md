@@ -29,7 +29,7 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">1</td>
       <td>Sep 17</td>
-      <td>Welcome! and Intro to Programming in Python</td>
+      <td>Welcome! and Intro to Programming in Python (<a href="https://docs.google.com/presentation/d/13D3mirT_O5Cenwl9DIDAPdH0XG9orHE8p1kry2z5LDg/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
         Intake Form, Codebaby Day 0 Video
@@ -38,19 +38,19 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">2</td>
       <td>Sep 24</td>
-      <td>Intro to SWE</td>
+      <td>Intro to SWE (<a href="https://docs.google.com/presentation/d/1hOvZQR8OqjasH3EVtxysBtGxg9hHfHz6HRxVj2kYBOk/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        Design Doc Part 1, Git Practice (Optional), Intro to Programming in Python (Optional)
+        Design Doc Part 1, <a href="{{ site.baseurl }}/assets/fa26/intro_to_swe.pdf">Git Practice</a> (Optional), <a href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/intro_to_python/intro_to_python.ipynb">Intro to Programming in Python</a> (Optional)
       </td>
     </tr>
     <tr>
       <td style="max-width: 30px;">3</td>
       <td>Oct 1</td>
-      <td>Data Structures</td>
+      <td>Data Structures (<a href="https://docs.google.com/presentation/d/1D4SYgkFo62emvHupXa3_Nfn2ab_80iQ_hv2Us2dLUgs/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        TBA
+        <a href="{{ site.baseurl }}/assets/fa26/mock_interview.pdf">Mock Interview</a>
       </td>
     </tr>
     <tr>
