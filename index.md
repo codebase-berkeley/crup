@@ -56,19 +56,20 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">4</td>
       <td>Oct 8</td>
-      <td>Databases</td>
+      <td>Databases (<a href="https://docs.google.com/presentation/d/1AbKi4Rl3bqb0MvPjqG2o_GsDwsl4kAviWzuomGe2EPc/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        TBA
+        N/A
       </td>
     </tr>
     <tr>
       <td style="max-width: 30px;">5</td>
       <td>Oct 15</td>
-      <td>Distributed Systems / Probability</td>
+      <td>Distributed Systems / Probability (<a href="https://docs.google.com/presentation/d/1SdR_OmLdxigFPmf5T2x0ceUKOIP77Ru3Z0ugi1apct0/edit?usp=sharing">)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        TBA
+        <a href="{{ site.baseurl }}/assets/fa26/distributed_systems.pdf">Distributed Systems</a>
+        <a href="{{ site.baseurl }}/assets/fa26/probability.pdf">Probability</a>
       </td>
     </tr>
     <tr>
