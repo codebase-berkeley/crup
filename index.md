@@ -59,7 +59,7 @@ your EdVPs 💙
       <td>Databases (<a href="https://docs.google.com/presentation/d/1AbKi4Rl3bqb0MvPjqG2o_GsDwsl4kAviWzuomGe2EPc/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        N/A
+        <a href="{{ site.baseurl }}/assets/fa26/databases.pdf">Databases</a>
       </td>
     </tr>
     <tr>
@@ -68,7 +68,7 @@ your EdVPs 💙
       <td>Distributed Systems / Probability (<a href="https://docs.google.com/presentation/d/1SdR_OmLdxigFPmf5T2x0ceUKOIP77Ru3Z0ugi1apct0/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        <a href="{{ site.baseurl }}/assets/fa26/distributed_systems.pdf">Distributed Systems</a>
+        <a href="{{ site.baseurl }}/assets/fa26/distributed_systems.pdf">Distributed Systems</a>, 
         <a href="{{ site.baseurl }}/assets/fa26/probability.pdf">Probability</a>
       </td>
     </tr>
