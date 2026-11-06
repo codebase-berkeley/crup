@@ -84,7 +84,7 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">7</td>
       <td>Oct 29</td>
-      <td>Linear Algebra / Introduction to ML</td>
+      <td>Linear Algebra / Introduction to ML (<a href="https://docs.google.com/presentation/d/1Kc9uNDv_HF7YrDoaasF4YqNSq0smPZoLSqoeqOfxLgc/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
         TBA
@@ -93,7 +93,7 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">8</td>
       <td>Nov 5</td>
-      <td>Deep Learning</td>
+      <td>Deep Learning </td>
       <td>
         <span class="label"><strong>Homework</strong></span>
         TBA
