@@ -93,9 +93,9 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">8</td>
       <td>Nov 5</td>
-      <td>Deep Learning </td>
+      <td>Classical ML / Deep Learning </td>
       <td>
-        <span class="label"><strong>Homework</strong></span>
+        <span class="label"><strong>Homework</strong> <a href="https://colab.research.google.com/github/codebase-berkeley/crup-code/blob/main/classical_ml/classical_ml.ipynb">Classical ML</a></span>
         TBA
       </td>
     </tr>
@@ -105,25 +105,22 @@ your EdVPs 💙
       <td>NLP, Agents, &amp; Transformers</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
-        TBA
+        Neural Networks & Transformers
       </td>
     </tr>
     <tr>
       <td style="max-width: 30px;">10</td>
       <td>Nov 19</td>
-      <td>Teach Us Something!</td>
-      <td></td>
+      <td>Codebase Friendsgiving!</td>
+      <td>
+        <span class="label"><strong>Homework</strong></span>
+        Finish Your CRUP Deliverable (Repo & Writeup)
+      </td>
     </tr>
     <tr>
       <td style="max-width: 30px;">11</td>
       <td>Dec 3</td>
-      <td>Work Session + Social!</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="max-width: 30px;">12</td>
-      <td>Dec 10</td>
-      <td>Final CRUP Presentations</td>
+      <td>CRUP Final Presentations!</td>
       <td></td>
     </tr>
   </tbody>
