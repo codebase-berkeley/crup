@@ -75,7 +75,7 @@ your EdVPs 💙
     <tr>
       <td style="max-width: 30px;">6</td>
       <td>Oct 22</td>
-      <td>Tools &amp; Vibe Coding</td>
+      <td>Tools &amp; Vibe Coding (<a href="https://docs.google.com/presentation/d/1UonCUhSTPa9S6xilizHe5X9OjWqcejHkeqoMcdtZG-k/edit?usp=sharing">slides</a>)</td>
       <td>
         <span class="label"><strong>Homework</strong></span>
         TBA
